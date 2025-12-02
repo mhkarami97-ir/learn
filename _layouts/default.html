@@ -15,23 +15,25 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/logo.png">
   {% include analytics_head.html %}
   <style>
-    .post {
-      max-width: 100%;
-    }
+    @media (max-width: 769px) {
+      .post {
+        max-width: 100%;
+      }
 
-    .post table {
-      display: block;
-      width: 100%;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      border-collapse: collapse;
-    }
+      .post table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        border-collapse: collapse;
+      }
 
-    .post th,
-    .post td {
-      word-break: break-word;
-      padding: 5px;
-      font-size: small;
+      .post th,
+      .post td {
+        word-break: break-word;
+        padding: 4px;
+        font-size: small;
+      }
     }
   </style>
 </head>
