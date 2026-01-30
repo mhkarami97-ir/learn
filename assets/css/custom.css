@@ -1,16 +1,16 @@
-@import "../fonts/Vazirmatn-font-face.css";
+@import '../fonts/Vazirmatn-font-face.css';
 
 :root {
-  font-family: 'Vazirmatn', 'Tahoma', sans-serif;
+  font-family: Vazirmatn, Tahoma, sans-serif;
 }
 
 body {
-  font-family: 'Vazirmatn', 'Tahoma', sans-serif;
+  font-family: Vazirmatn, Tahoma, sans-serif;
 }
 
 input,
 button {
-  font-family: 'Vazirmatn', 'Tahoma', sans-serif;
+  font-family: Vazirmatn, Tahoma, sans-serif;
 }
 
 .pagination {
