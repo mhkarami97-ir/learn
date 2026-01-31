@@ -1,5 +1,4 @@
 ---
-layout: post
 title: مدیتیشن
 categories: [روانشناسی, فردی]
 tags: [روانشناسی, فردی]

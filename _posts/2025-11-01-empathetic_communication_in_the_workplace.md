@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ارتباط همدلانه در محیط کار
 categories: [ارتباط, کار]
 tags: [ارتباط, کار]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: زبان تخصصی
 categories: [زبان, تورلیدری]
 tags: [زبان, تورلیدری]
