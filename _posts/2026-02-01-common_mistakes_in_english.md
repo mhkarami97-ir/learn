@@ -2032,10 +2032,6 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-### **Unnecessary Articles** (استفاده غیرضروری از the/a)
-
-***
-
 (۲۹۶) No **the** before proper nouns  
 ❌ **The** Sarah will go to **the** England  
 ✅ Sarah will go to England  
@@ -2362,14 +2358,6 @@ Or: Many **people** drowned...
 
 ***
 
-## Part 4: Misplaced Words (کلمات در جای نادرست)
-
-***
-
-### جایگاه نادرست قیدها
-
-***
-
 (۳۴۱) "only" before the word it modifies  
 ❌ I **only** saw her once  
 ✅ I saw her **only** once  
@@ -2443,10 +2431,6 @@ Or: **Both** of them have gone
 ❌ This is **enough** good  
 ✅ This is good **enough**  
 این به اندازهٔ کافی خوب است.
-
-***
-
-### موارد متفرقه (Misplaced)
 
 ***
 
@@ -2603,10 +2587,6 @@ Or: This is the man I spoke **to**
 ✅ All came **except** John  
 ✅ **Besides** John, Mary came too  
 همه آمدند به جز جان / علاوه بر جان، مری هم آمد.
-
-***
-
-### Verbs Often Confused (افعال)
 
 ***
 
@@ -2847,10 +2827,6 @@ Or: This is the man I spoke **to**
 
 ***
 
-### Adjectives Often Confused (صفت‌ها)
-
-***
-
 (۳۹۴) **elder/eldest** vs **older/oldest** 
 **elder/eldest** = بزرگ‌تر/بزرگ‌ترین (فقط برای افراد خانواده)  
 **older/oldest** = قدیمی‌تر/قدیمی‌ترین (برای همه)  
@@ -2964,10 +2940,6 @@ Or: This is the man I spoke **to**
 
 ***
 
-### Nouns Often Confused (اسامی)
-
-***
-
 (۴۰۶) **advice** (n) / **advise** (v) 
 ✅ Give me some **advice** (اسم)  
 ✅ Please **advise** me (فعل)  
@@ -3053,10 +3025,6 @@ Or: This is the man I spoke **to**
 
 ***
 
-### Confusion of Number (تفاوت مفرد و جمع)
-
-***
-
 (۴۱۵) **clothes** (plural)  
 ❌ I bought a new **clothe**  
 ✅ I bought new **clothes**  
@@ -3116,10 +3084,6 @@ Or: This is the man I spoke **to**
 
 ***
 
-### Confusion of Parts of Speech (اشتباه نوع کلمه)
-
-***
-
 (۴۲۳) **good** (adj) vs **well** (adv) 
 ✅ He's a **good** player  
 ✅ He plays **well**  
@@ -3142,14 +3106,14 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۲۶) **hear** vs **listen (to)** 
+(۴۲۶) **hear** vs **listen (to)**  
 ✅ I **heard** a strange noise (شنیدن غیرارادی)  
 ✅ I was **listening to** music (گوش دادن ارادی)  
 صدای عجیبی شنیدم / داشتم به موسیقی گوش می‌دادم.
 
 ***
 
-(۴۲۷) **remember** vs **remind** 
+(۴۲۷) **remember** vs **remind**  
 ✅ I **remember** your name (به یاد داشتن)  
 ✅ Please **remind** me to call him (یادآوری کردن)  
 اسمت را به یاد دارم / لطفاً به من یادآوری کن که به او زنگ بزنم.
@@ -3177,7 +3141,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۳۱) **bring** vs **take** / **fetch** 
+(۴۳۱) **bring** vs **take** / **fetch**  
 ✅ **Bring** these flowers to me (به سمت گوینده)  
 ✅ **Take** these cakes to your grandmother (دور از گوینده)  
 ✅ **Fetch** me a glass of water (برو و با آن برگرد)
@@ -3373,10 +3337,6 @@ Or: This is the man I spoke **to**
 
 ***
 
-### Adjectives (ادامه)
-
-***
-
 (۴۶۵) **many** vs **much**  
 ❌ He hasn't **much** books  
 ✅ He hasn't **many** books  
@@ -3384,13 +3344,13 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۶۶) **few** vs **a few** 
+(۴۶۶) **few** vs **a few**  
 ✅ **Few** boys answered (= تعداد کمی، منفی)  
 ✅ **A few** boys answered (= چند نفر، مثبت)
 
 ***
 
-(۴۶۷) **little** vs **a little** 
+(۴۶۷) **little** vs **a little**  
 ✅ He took **little** exercise (= کم، ناکافی)  
 ✅ He took **a little** exercise (= کمی، مثبت)
 
@@ -3410,13 +3370,13 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۷۰) **older/oldest** vs **elder/eldest** 
+(۴۷۰) **older/oldest** vs **elder/eldest**  
 ✅ This girl is **older** than that one  
 ✅ My **elder** brother (فقط برای افراد خانواده)
 
 ***
 
-(۴۷۱) **interesting** vs **interested** 
+(۴۷۱) **interesting** vs **interested**  
 ✅ An **interesting** story (جالب)  
 ✅ I'm **interested** in music (علاقه‌مند)
 
@@ -3430,7 +3390,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۷۳) **farther** vs **further** 
+(۴۷۳) **farther** vs **further**  
 ✅ London is **farther** (فاصلهٔ فیزیکی)  
 ✅ **Further** information (بیشتر، انتزاعی)
 
@@ -3449,7 +3409,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۷۶) **some** vs **any** 
+(۴۷۶) **some** vs **any**  
 ✅ He has **some** milk (مثبت)  
 ✅ He hasn't **any** milk (منفی)  
 ✅ Would you like **some** tea? (پیشنهاد)
@@ -3481,13 +3441,13 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۸۱) **enough** / **too** 
+(۴۸۱) **enough** / **too**  
 ✅ This isn't good **enough** (کافی نیست)  
 ✅ This is **too** expensive (بیش از حد)
 
 ***
 
-(۴۸۲) **big/large** vs **great** 
+(۴۸۲) **big/large** vs **great**  
 ✅ A **big** house (اندازه)  
 ✅ A **great** man (عظمت، اهمیت)
 
@@ -3531,103 +3491,99 @@ Or: This is the man I spoke **to**
 
 ***
 
-### Nouns (ادامه)
-
-***
-
-(۴۸۹) **house** vs **home** 
+(۴۸۹) **house** vs **home**  
 ✅ They're building a **house** (ساختمان)  
 ✅ I'm going **home** (نه: to home)
 
 ***
 
-(۴۹۰) **story** vs **history** 
+(۴۹۰) **story** vs **history**  
 ✅ An interesting **story** (داستان)  
 ✅ The **history** of Rome (تاریخ)
 
 ***
 
-(۴۹۱) **habit** vs **custom** 
+(۴۹۱) **habit** vs **custom**  
 ✅ A bad **habit** (فردی)  
 ✅ Chinese **customs** (جمعی، فرهنگی)
 
 ***
 
-(۴۹۲) **cause** vs **reason** 
+(۴۹۲) **cause** vs **reason**  
 ✅ The **cause of** a sandstorm  
 ✅ A good **reason for** coming
 
 ***
 
-(۴۹۳) **scene** vs **scenery** 
+(۴۹۳) **scene** vs **scenery**  
 ✅ The **scene** of the accident (محل خاص)  
 ✅ Beautiful **scenery** (مناظر کلی)
 
 ***
 
-(۴۹۴) **centre** vs **middle** 
+(۴۹۴) **centre** vs **middle**  
 ✅ The **centre** of the circle  
 ✅ The **middle** of the street
 
 ***
 
-(۴۹۵) **shade** vs **shadow** 
+(۴۹۵) **shade** vs **shadow**  
 ✅ Sit in the **shade** (سایه برای حفاظت)  
 ✅ I saw his **shadow** (سایهٔ شخص)
 
 ***
 
-(۴۹۶) **customer** vs **client** 
+(۴۹۶) **customer** vs **client**  
 ✅ The shop has many **customers**  
 ✅ The lawyer has many **clients**
 
 ***
 
-(۴۹۷) **stranger** vs **guest** / **foreigner** 
+(۴۹۷) **stranger** vs **guest** / **foreigner**  
 ✅ They had **guests** last night (دوستان)  
 ✅ A **stranger** knocked (ناشناس)  
 ✅ A **foreigner** from France (خارجی)
 
 ***
 
-(۴۹۸) **travel** vs **journey** / **trip** 
+(۴۹۸) **travel** vs **journey** / **trip**  
 ✅ **Travel** broadens the mind (uncountable)  
 ✅ A long **journey** (سفر طولانی)  
 ✅ A **trip** to Paris (سفر کوتاه)
 
 ***
 
-(۴۹۹) **foot** vs **leg** 
+(۴۹۹) **foot** vs **leg**  
 ✅ I hurt my **leg** (بالای مچ پا)  
 ✅ I hurt my **foot** (زیر مچ پا)
 
 ***
 
-(۵۰۰) **finger** vs **toe** 
+(۵۰۰) **finger** vs **toe**  
 ✅ **Fingers** on the hand  
 ✅ **Toes** on the foot
 
 ***
 
-(۵۰۱) **poetry** vs **poem** 
+(۵۰۱) **poetry** vs **poem**  
 ✅ I have a **poem** to learn (یک شعر)  
 ✅ I love **poetry** (شعر به طور کلی)
 
 ***
 
-(۵۰۲) **theatre** vs **play** 
+(۵۰۲) **theatre** vs **play**  
 ✅ Go to the **theatre** (ساختمان)  
 ✅ See a **play** (نمایش)
 
 ***
 
-(۵۰۳) **play** vs **game** 
+(۵۰۳) **play** vs **game**  
 ✅ A nice **game** of football  
 ✅ He's fond of **play** (بازی به طور کلی)
 
 ***
 
-(۵۰۴) **dress** vs **suit** / **clothes** 
+(۵۰۴) **dress** vs **suit** / **clothes**  
 ✅ Women wear **dresses**  
 ✅ Men wear **suits**  
 ✅ New **clothes** (لباس کلی)
@@ -3652,31 +3608,31 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۵۰۸) **cost** vs **price** 
+(۵۰۸) **cost** vs **price**  
 ✅ What's the **price**? (قیمت برای خریدار)  
 ✅ How much does it **cost**? (هزینه)
 
 ***
 
-(۵۰۹) **air** vs **wind** 
+(۵۰۹) **air** vs **wind**  
 ✅ Strong **wind** blew her hat  
 ✅ Fresh **air** (هوا برای نفس کشیدن)
 
 ***
 
-(۵۱۰) **ground** vs **floor** 
+(۵۱۰) **ground** vs **floor**  
 ✅ A book on the **floor** (داخل ساختمان)  
 ✅ On the **ground** (خارج از ساختمان)
 
 ***
 
-(۵۱۱) **place** vs **room** / **space** 
+(۵۱۱) **place** vs **room** / **space**  
 ✅ Is there **room** for me? (جا، فضا)  
 ✅ This is a nice **place** (محل)
 
 ***
 
-(۵۱۲) **organ** vs **instrument** 
+(۵۱۲) **organ** vs **instrument**  
 ✅ What **instrument** can you play?  
 ⚠️ Organ = ارگ (آلت موسیقی خاص کلیسا)
 
@@ -3686,14 +3642,6 @@ Or: This is the man I spoke **to**
 ❌ No **appetite** to study  
 ✅ No **desire** to study  
 ⚠️ Appetite = اشتها (برای غذا)
-
-***
-
-### Confusion of Number (جمع و مفرد)
-
-***
-
-(۵۱۴–۵۲۱): تکرار موارد قبلی (clothes, news, furniture, information...)
 
 ***
 
