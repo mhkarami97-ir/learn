@@ -8,1034 +8,1034 @@ tags: [روزمره, انگلیسی]
 
 ---
 
-(۱) Absorbed in 
+(۱) Absorbed in   
 ❌ The man was absorbed at his work  
 ✅ The man was absorbed in his work  
 مرد در کارش غرق بود / کاملاً مشغول کارش بود.  
 
 ***
 
-(۲) Accuse of 
+(۲) Accuse of  
 ❌ She accused the man for stealing  
 ✅ She accused the man of stealing  
 او آن مرد را به دزدی متهم کرد.  
 
 ***
 
-(۳) Accustomed to 
+(۳) Accustomed to  
 ❌ I'm accustomed with hot weather  
 ✅ I'm accustomed to hot weather  
 من به هوای گرم عادت دارم.  
 
 ***
 
-(۴) Afraid of 
+(۴) Afraid of  
 ❌ Laura is afraid from the dog  
 ✅ Laura is afraid of the dog  
 لورا از آن سگ می‌ترسد.  
 
 ***
 
-(۵) Aim at 
+(۵) Aim at  
 ❌ She aimed on the target  
 ✅ She aimed at the target  
 او به سمت هدف نشانه رفت.  
 
 ***
 
-(۶) Angry with 
+(۶) Angry with  
 ❌ The teacher was angry against him  
 ✅ The teacher was angry with him  
 معلم از او عصبانی بود.  
 
 ***
 
-(۷) Anxious about 
+(۷) Anxious about  
 ❌ They're anxious for his health  
 ✅ They're anxious about his health  
 آن‌ها دربارهٔ سلامتی او نگران‌اند.  
 
 ***
 
-(۸) Arrive at 
+(۸) Arrive at  
 ❌ We arrived to the village at night  
 ✅ We arrived at the village at night  
 ما شب به روستا رسیدیم.  
 
 ***
 
-(۹) Ashamed of 
+(۹) Ashamed of  
 ❌ He's now ashamed from his conduct  
 ✅ He's now ashamed of his conduct  
 او حالا از رفتارش شرمنده است.  
 
 ***
 
-(۱۰) Believe in 
+(۱۰) Believe in  
 ❌ We believe to God  
 ✅ We believe in God  
 ما به خدا ایمان داریم.  
 
 ***
 
-(۱۱) Boast of / about 
+(۱۱) Boast of / about  
 ❌ James boasted for his strength  
 ✅ James boasted of / about his strength  
 جیمز به قدرتش فخر می‌فروخت / لاف می‌زد.  
 
 ***
 
-(۱۲) Careful of / about / with 
+(۱۲) Careful of / about / with  
 ❌ Elke's very careful for her health  
 ✅ Elke's very careful about her health  
 الکه خیلی مواظب سلامتی‌اش است.  
 
 ***
 
-(۱۳) Travel by train 
+(۱۳) Travel by train  
 ❌ He travelled with the train yesterday  
 ✅ He travelled by train yesterday  
 او دیروز با قطار سفر کرد.  
 
 ***
 
-(۱۴) Complain about 
+(۱۴) Complain about  
 ❌ Annette complained for the weather  
 ✅ Annette complained about the weather  
 آنت نت از هوا شکایت کرد / غر زد.  
 
 ***
 
-(۱۵) Composed of 
+(۱۵) Composed of  
 ❌ Our class is composed from thirty students  
 ✅ Our class is composed of thirty students  
 کلاس ما از سی دانش‌آموز تشکیل شده است.  
 
 ***
 
-(۱۶) Confidence in 
+(۱۶) Confidence in  
 ❌ I have great confidence to you  
 ✅ I have great confidence in you  
 من به تو اعتماد زیادی دارم.  
 
 ***
 
-(۱۷) Conform to 
+(۱۷) Conform to  
 ❌ We must conform with the rules  
 ✅ We must conform to the rules  
 ما باید مطابق قوانین رفتار کنیم.  
 
 ***
 
-(۱۸) Congratulate on 
+(۱۸) Congratulate on  
 ❌ I congratulate you for your success  
 ✅ I congratulate you on your success  
 موفقیتت را به تو تبریک می‌گویم.  
 
 ***
 
-(۱۹) Consist of 
+(۱۹) Consist of  
 ❌ A year consists from twelve months  
 ✅ A year consists of twelve months  
 یک سال از دوازده ماه تشکیل شده است.  
 
 ***
 
-(۲۰) Covered with / in 
+(۲۰) Covered with / in  
 ❌ The mountains are covered by snow  
 ✅ The mountains are covered with snow  
 کوه‌ها با/زیرِ برف پوشیده شده‌اند.  
 
 ***
 
-(۲۱) Cure of 
+(۲۱) Cure of  
 ❌ The man was cured from his illness  
 ✅ The man was cured of his illness  
 آن مرد از بیماری‌اش درمان شد.  
 
 ***
 
-(۲۲) Depend on / upon 
+(۲۲) Depend on / upon  
 ❌ It depends from her  
 ✅ It depends on her  
 این به او بستگی دارد.  
 
 ***
 
-(۲۳) Deprive of 
+(۲۳) Deprive of  
 ❌ Nelson Mandela was deprived from his freedom  
 ✅ Nelson Mandela was deprived of his freedom  
 نلسون ماندلا از آزادی‌اش محروم شد.  
 
 ***
 
-(۲۴) Die of 
+(۲۴) Die of  
 ❌ Many people have died from malaria  
 ✅ Many people have died of malaria  
 بسیاری از مردم بر اثر مالاریا مرده‌اند.  
 
 ***
 
-(۲۵) Different from 
+(۲۵) Different from  
 ❌ My book is different than yours  
 ✅ My book is different from yours  
 کتاب من با کتاب تو فرق دارد.  
 
 ***
 
-(۲۶) Disappointed by / about / at 
+(۲۶) Disappointed by / about / at  
 ❌ Phillipa was disappointed from the low mark she got  
 ✅ Phillipa was disappointed by the low mark she got  
 فیلیپا از نمرهٔ پایینی که گرفت ناامید شد.  
 
 ***
 
-(۲۷) Divide into 
+(۲۷) Divide into  
 ❌ I divided the cake in four parts  
 ✅ I divided the cake into four parts  
 کیک را به چهار قسمت تقسیم کردم.  
 
 ***
 
-(۲۸) No doubt of / about 
+(۲۸) No doubt of / about  
 ❌ I've no doubt for his ability  
 ✅ I've no doubt about his ability  
 در مورد توانایی او شکی ندارم.  
 
 ***
 
-(۲۹) Dressed in 
+(۲۹) Dressed in  
 ❌ The woman was dressed with black  
 ✅ The woman was dressed in black  
 آن زن لباس مشکی به تن داشت.  
 
 ***
 
-(۳۰) Exception to 
+(۳۰) Exception to  
 ❌ This is an exception of the rule  
 ✅ This is an exception to the rule  
 این یک استثنا برای این قانون است.  
 
 ***
 
-(۳۱) Exchange for 
+(۳۱) Exchange for  
 ❌ He exchanged his collection by some foreign stamps  
 ✅ He exchanged his collection for some foreign stamps  
 او مجموعه‌اش را با چند تمبر خارجی عوض کرد.  
 
 ***
 
-(۳۲) Fail in 
+(۳۲) Fail in  
 ❌ Steven failed from maths last year  
 ✅ Steven failed in maths last year  
 استیون پارسال در ریاضی مردود شد.  
 
 ***
 
-(۳۳) Full of 
+(۳۳) Full of  
 ❌ The jar was full with oil  
 ✅ The jar was full of oil  
 شیشه پر از روغن بود.  
 
 ***
 
-(۳۴) Get rid of 
+(۳۴) Get rid of  
 ❌ I'll be glad to get rid from him  
 ✅ I'll be glad to get rid of him  
 خوشحال می‌شوم از دست او خلاص شوم.  
 
 ***
 
-(۳۵) Glad about 
+(۳۵) Glad about  
 ❌ Francis was glad from receiving your letter  
 ✅ Francis was glad about receiving your letter  
 فرانسیس از دریافت نامه‌ات خوشحال شد.  
 
 ***
 
-(۳۶) Good at 
+(۳۶) Good at  
 ❌ My sister's good in maths  
 ✅ My sister's good at maths  
 خواهرم در ریاضی خوب است.  
 
 ***
 
-(۳۷) Guard against 
+(۳۷) Guard against  
 ❌ You must guard from bad habits  
 ✅ You must guard against bad habits  
 باید از عادت‌های بد دوری کنی / خودت را حفظ کنی.  
 
 ***
 
-(۳۸) Guilty of 
+(۳۸) Guilty of  
 ❌ He was found guilty for murder  
 ✅ He was found guilty of murder  
 او مجرم به قتل شناخته شد.  
 
 ***
 
-(۳۹) Independent of 
+(۳۹) Independent of  
 ❌ Clare's independent from her parents  
 ✅ Clare's independent of her parents  
 کلر از والدینش مستقل است.  
 
 ***
 
-(۴۰) Indifferent to 
+(۴۰) Indifferent to  
 ❌ They're indifferent for politics  
 ✅ They're indifferent to politics  
 آن‌ها نسبت به سیاست بی‌تفاوت‌اند.  
 
 ***
 
-(۴۱) Insist on  
+(۴۱) Insist on   
 ❌ He always insisted to his opinion  
 ✅ He always insisted on his opinion  
 او همیشه روی نظرش پافشاری می‌کرد.  
 
 ***
 
-(۴۲) Interested in  
+(۴۲) Interested in   
 ❌ She's not interested for her work  
 ✅ She's not interested in her work  
 او به کارش علاقه‌ای ندارد.  
 
 ***
 
-(۴۳) Jealous of  
+(۴۳) Jealous of   
 ❌ He's very jealous from his brother  
 ✅ He's very jealous of his brother  
 او خیلی به برادرش حسادت می‌کند.  
 
 ***
 
-(۴۴) Leave for  
+(۴۴) Leave for   
 ❌ They're leaving to England soon  
 ✅ They're leaving for England soon  
 آن‌ها به‌زودی راهی انگلستان می‌شوند.  
 
 ***
 
-(۴۵) Live on  
+(۴۵) Live on   
 ❌ He lives from his brother's money  
 ✅ He lives on his brother's money  
 او از پول برادرش زندگی می‌کند.  
 
 ***
 
-(۴۶) Look at  
+(۴۶) Look at   
 ❌ Look to this beautiful picture  
 ✅ Look at this beautiful picture  
 به این تصویر زیبا نگاه کن.  
 
 ***
 
-(۴۷) Married to  
+(۴۷) Married to   
 ❌ Angela was married with a rich man  
 ✅ Angela was married to a rich man  
 آنژلا با یک مرد ثروتمند ازدواج کرده بود.  
 
 ***
 
-(۴۸) Opposite to  
+(۴۸) Opposite to   
 ❌ Their house is opposite from ours  
 ✅ Their house is opposite to ours  
 خانهٔ آن‌ها روبه‌روی خانهٔ ماست.  
 
 ***
 
-(۴۹) Pass by  
+(۴۹) Pass by   
 ❌ Will you pass from the post-office?  
 ✅ Will you pass by the post-office?  
 از کنار ادارهٔ پست رد می‌شوی؟  
 
 ***
 
-(۵۰) Play for  
+(۵۰) Play for   
 ❌ He plays regularly with that team  
 ✅ He plays regularly for that team  
 او به‌طور منظم برای آن تیم بازی می‌کند.  
 
 ***
 
-(۵۱) Pleased with  
+(۵۱) Pleased with   
 ❌ The teacher is pleased from me  
 ✅ The teacher is pleased with me  
 معلم از من راضی است.  
 
 ***
 
-(۵۲) Popular with  
+(۵۲) Popular with   
 ❌ John's popular among his friends  
 ✅ John's popular with his friends  
 جان در میان دوستانش محبوب است.  
 
 ***
 
-(۵۳) Prefer to  
+(۵۳) Prefer to   
 ❌ I prefer a blue pen from a red one  
 ✅ I prefer a blue pen to a red one  
 من یک خودکار آبی را به قرمز ترجیح می‌دهم.  
 
 ***
 
-(۵۴) Preside at / over  
+(۵۴) Preside at / over   
 ❌ Who presided in the last meeting?  
 ✅ Who presided at the last meeting?  
 چه کسی ریاست جلسهٔ قبل را بر عهده داشت؟  
 
 ***
 
-(۵۵) Proud of  
+(۵۵) Proud of   
 ❌ He's very proud for his promotion  
 ✅ He's very proud of his promotion  
 او به ترفیعش خیلی افتخار می‌کند.  
 
 ***
 
-(۵۶) Rejoice at / in  
+(۵۶) Rejoice at / in   
 ❌ We rejoiced for her success  
 ✅ We rejoiced at her success  
 ما از موفقیت او شادمان شدیم.  
 
 ***
 
-(۵۷) Related to  
+(۵۷) Related to   
 ❌ Are you related with Simon in any way?  
 ✅ Are you related to Simon in any way?  
 آیا به هر نحوی با سایمون نسبت داری؟  
 
 ***
 
-(۵۸) Repent of  
+(۵۸) Repent of   
 ❌ He repented from his crime  
 ✅ He repented of his crime  
 او از جرمش توبه کرد / پشیمان شد.  
 
 ***
 
-(۵۹) Satisfied with  
+(۵۹) Satisfied with   
 ❌ Are you satisfied from your marks?  
 ✅ Are you satisfied with your marks?  
 از نمره‌هایت راضی هستی؟  
 
 ***
 
-(۶۰) Similar to  
+(۶۰) Similar to   
 ❌ Your house is similar with mine  
 ✅ Your house is similar to mine  
 خانهٔ تو شبیه خانهٔ من است.  
 
 ***
 
-(۶۱) Sit at a desk  
+(۶۱) Sit at a desk   
 ❌ The bank manager was sitting on his desk  
 ✅ The bank manager was sitting at his desk  
 مدیر بانک پشت میزش نشسته بود.  
 
 ***
 
-(۶۲) Spend on  
+(۶۲) Spend on   
 ❌ I spend a lot of time for my computer  
 ✅ I spend a lot of time on my computer  
 زمان زیادی را پای کامپیوترم می‌گذرانم.  
 
 ***
 
-(۶۳) Succeed in  
+(۶۳) Succeed in   
 ❌ I hope he'll succeed at his work  
 ✅ I hope he'll succeed in his work  
 امیدوارم در کارش موفق شود.  
 
 ***
 
-(۶۴) Superior to  
+(۶۴) Superior to   
 ❌ This is superior from that  
 ✅ This is superior to that  
 این از آن بهتر / برتر است.  
 
 ***
 
-(۶۵) Sure of  
+(۶۵) Sure of   
 ❌ I'm quite sure for her honesty  
 ✅ I'm quite sure of her honesty  
 کاملاً مطمئنم که او صادق است.  
 
 ***
 
-(۶۶) Surprised at / by  
+(۶۶) Surprised at / by   
 ❌ Harold was surprised for the loud bang  
 ✅ Harold was surprised at the loud bang  
 هارولد از صدای بلند یک‌دفعه‌ای متعجب شد.  
 
 ***
 
-(۶۷) Suspect of  
+(۶۷) Suspect of   
 ❌ I suspect Kate for stealing the pen  
 ✅ I suspect Kate of stealing the pen  
 به کیت مظنونم که خودکار را دزدیده باشد.  
 
 ***
 
-(۶۸) Take by  
+(۶۸) Take by   
 ❌ Robert took his brother from the hand  
 ✅ Robert took his brother by the hand  
 رابرت برادرش را از دستش گرفت (دستش را گرفت).  
 
 ***
 
-(۶۹) Tie to  
+(۶۹) Tie to   
 ❌ The girl tied the string on the kite  
 ✅ The girl tied the string to the kite  
 دختر نخ را به بادبادک بست.  
 
 ***
 
-(۷۰) Tired of  
+(۷۰) Tired of   
 ❌ The boys are tired from eating boiled eggs  
 ✅ The boys are tired of eating boiled eggs  
 پسرها از خوردن تخم‌مرغ آب‌پز خسته شده‌اند.  
 
 ***
 
-(۷۱) Translate into  
+(۷۱) Translate into   
 ❌ Translate this passage to English  
 ✅ Translate this passage into English  
 این متن را به انگلیسی ترجمه کن.  
 
 ***
 
-(۷۲) Tremble with cold  
+(۷۲) Tremble with cold   
 ❌ The man was trembling from cold  
 ✅ The man was trembling with cold  
 مرد از سرما می‌لرزید.  
 
 ***
 
-(۷۳) Warn of danger  
+(۷۳) Warn of danger   
 ❌ They were warned about the danger  
 ✅ They were warned of the danger  
 آن‌ها از خطر آگاه/هشدار داده شدند.  
 
 ***
 
-(۷۴) Write in ink  
+(۷۴) Write in ink   
 ❌ I've written the letter with ink  
 ✅ I've written the letter in ink  
 نامه را با جوهر (خودنویس/خودکار) نوشته‌ام.  
 
 ***
 
-(۷۵) Without + -ing  
+(۷۵) Without + -ing   
 ❌ Do your work without to speak  
 ✅ Do your work without speaking  
 کارت را انجام بده بدون این‌که حرف بزنی.  
 
 ***
 
-(۷۶) Instead of + -ing  
+(۷۶) Instead of + -ing   
 ❌ He went away instead to wait  
 ✅ He went away instead of waiting  
 او به‌جای این‌که منتظر بماند، رفت.  
 
 ***
 
-(۷۷) Capable of + -ing  
+(۷۷) Capable of + -ing   
 ❌ They're quite capable to do that  
 ✅ They're quite capable of doing that  
 آن‌ها کاملاً توانایی انجام آن کار را دارند.  
 
 ***
 
-(۷۸) Fond of + -ing  
+(۷۸) Fond of + -ing   
 ❌ She's always fond to talk  
 ✅ She's always fond of talking  
 او همیشه از صحبت کردن لذت می‌برد / علاقه دارد حرف بزند.  
 
 ***
 
-(۷۹) Insist on + -ing  
+(۷۹) Insist on + -ing   
 ❌ Simon insisted to go to London  
 ✅ Simon insisted on going to London  
 سایمون اصرار داشت به لندن برود.  
 
 ***
 
-(۸۰) Object to + -ing  
+(۸۰) Object to + -ing   
 ❌ I object to be treated like this  
 ✅ I object to being treated like this  
 به این‌که با من این‌طور رفتار شود اعتراض دارم.  
 
 ***
 
-(۸۱) Prevent from + -ing  
+(۸۱) Prevent from + -ing   
 ❌ The rain prevented me to go  
 ✅ The rain prevented me from going  
 باران مانع شد که بروم.  
 
 ***
 
-(۸۲) Succeed in + -ing  
+(۸۲) Succeed in + -ing   
 ❌ Paula succeeded to win the prize  
 ✅ Paula succeeded in winning the prize  
 پائولا در برنده‌شدنِ جایزه موفق شد.  
 
 ***
 
-(۸۳) Think of + -ing  
+(۸۳) Think of + -ing   
 ❌ I often think to go to England  
 ✅ I often think of going to England  
 اغلب به رفتن به انگلیس فکر می‌کنم.  
 
 ***
 
-(۸۴) Tired of + -ing  
+(۸۴) Tired of + -ing   
 ❌ The customer got tired to wait  
 ✅ The customer got tired of waiting  
 مشتری از صبر کردن خسته شد.  
 
 ***
 
-(۸۵) Used to + -ing  
+(۸۵) Used to + -ing   
 ❌ She's used to get up early  
 ✅ She's used to getting up early  
 او عادت دارد صبح زود بیدار شود.  
 
 ***
 
-(۸۶) Avoid + -ing  
+(۸۶) Avoid + -ing   
 ❌ You can't avoid to make mistakes  
 ✅ You can't avoid making mistakes  
 نمی‌توانی از اشتباه کردن کاملاً اجتناب کنی.  
 
 ***
 
-(۸۷) Enjoy + -ing  
+(۸۷) Enjoy + -ing   
 ❌ I enjoy to play football  
 ✅ I enjoy playing football  
 از فوتبال بازی کردن لذت می‌برم.  
 
 ***
 
-(۸۸) Excuse + -ing  
+(۸۸) Excuse + -ing   
 ❌ Please excuse me to be so late  
 ✅ Please excuse my being so late  
 لطفاً دیر رسیدنم را ببخش.  
 
 ***
 
-(۸۹) Finish + -ing  
+(۸۹) Finish + -ing   
 ❌ Have you finished to speak?  
 ✅ Have you finished speaking?  
 صحبتت تمام شد؟  
 
 ***
 
-(۹۰) Go on + -ing  
+(۹۰) Go on + -ing   
 ❌ The music went on to play all day  
 ✅ The music went on playing all day  
 موسیقی تمام روز ادامه داشت/نواخته می‌شد.  
 
 ***
 
-(۹۱) Mind + -ing  
+(۹۱) Mind + -ing   
 ❌ Would you mind to open the door?  
 ✅ Would you mind opening the door?  
 ممکن است در را باز کنی؟ (اشکالی ندارد در را باز کنی؟)  
 
 ***
 
-(۹۲) Practise + -ing  
+(۹۲) Practise + -ing   
 ❌ You must practise to speak English  
 ✅ You must practise speaking English  
 باید تمرین کنی انگلیسی صحبت کنی.  
 
 ***
 
-(۹۳) Remember + -ing  
+(۹۳) Remember + -ing   
 ❌ I don't remember to have seen him  
 ✅ I don't remember seeing him  
 یادم نمی‌آید او را دیده باشم.  
 
 ***
 
-(۹۴) Risk + -ing  
+(۹۴) Risk + -ing   
 ❌ We couldn't risk to leave him alone  
 ✅ We couldn't risk leaving him alone  
 نمی‌توانستیم ریسک کنیم او را تنها بگذاریم.  
 
 ***
 
-(۹۵) Stop + -ing  
+(۹۵) Stop + -ing   
 ❌ The wind has almost stopped to blow  
 ✅ The wind has almost stopped blowing  
 باد تقریباً از وزیدن ایستاده است.  
 
 ***
 
-(۹۶) Busy + -ing  
+(۹۶) Busy + -ing   
 ❌ He was busy to revise the exams  
 ✅ He was busy revising for the exams  
 او مشغول مرور برای امتحان‌ها بود.  
 
 ***
 
-(۹۷) Worth + -ing  
+(۹۷) Worth + -ing   
 ❌ Is today's film worth to see?  
 ✅ Is today's film worth seeing?  
 آیا فیلم امروز ارزش دیدن دارد؟  
 
 ***
 
-(۹۸) Have difficulty in + -ing  
+(۹۸) Have difficulty in + -ing   
 ❌ She has no difficulty to do it  
 ✅ She has no difficulty in doing it  
 او در انجام آن هیچ سختی‌ای ندارد.  
 
 ***
 
-(۹۹) Have the pleasure of + -ing  
+(۹۹) Have the pleasure of + -ing   
 ❌ I had the pleasure to meet him  
 ✅ I had the pleasure of meeting him  
 افتخار این را داشتم که او را ببینم.  
 
 ***
 
-(۱۰۰) It's no use + -ing  
+(۱۰۰) It's no use + -ing   
 ❌ It's no use to cry like a baby  
 ✅ It's no use crying like a baby  
 فایده‌ای ندارد مثل بچه‌ها گریه کنی.  
 
 ***
 
-(۱۰۱) It's no good + -ing 
+(۱۰۱) It's no good + -ing  
 ❌ It's no good to get angry  
 ✅ It's no good getting angry  
 عصبانی شدن فایده‌ای ندارد.  
 
 ***
 
-(۱۰۲) Look forward to + -ing 
+(۱۰۲) Look forward to + -ing  
 ❌ I look forward to see him soon  
 ✅ I look forward to seeing him soon  
 بی‌صبرانه منتظرم به‌زودی او را ببینم.  
 
 ***
 
-(۱۰۳) There is no harm in + -ing 
+(۱۰۳) There is no harm in + -ing  
 ❌ There's no harm to visit her now  
 ✅ There's no harm in visiting her now  
 ضرری ندارد الان به دیدنش بروی.  
 
 ***
 
-(۱۰۴) Did + infinitive (not past) 
+(۱۰۴) Did + infinitive (not past)  
 ❌ Did you went to school yesterday?  
 ✅ Did you go to school yesterday?  
 دیروز به مدرسه رفتی؟  
 
 ***
 
-(۱۰۵) Does + infinitive (not -s) 
+(۱۰۵) Does + infinitive (not -s)  
 ❌ Does the gardener waters the flowers?  
 ✅ Does the gardener water the flowers?  
 آیا باغبان گل‌ها را آبیاری می‌کند؟  
 
 ***
 
-(۱۰۶) Can + infinitive (not -s) 
+(۱۰۶) Can + infinitive (not -s)  
 ❌ Ian can speaks English very well  
 ✅ Ian can speak English very well  
 ایان خیلی خوب انگلیسی صحبت می‌کند.  
 
 ***
 
-(۱۰۷) Past after past (sequence of tenses) 
+(۱۰۷) Past after past (sequence of tenses)  
 ❌ Rachel asked me what I am doing  
 ✅ Rachel asked me what I was doing  
 ریچل از من پرسید که داشتم چه کار می‌کردم.  
 
 ***
 
-(۱۰۸) Would (not will) after past 
+(۱۰۸) Would (not will) after past  
 ❌ He said he will come tomorrow  
 ✅ He said he would come tomorrow  
 گفت فردا خواهد آمد.  
 
 ***
 
-(۱۰۹) Might (not may) after past 
+(۱۰۹) Might (not may) after past  
 ❌ She told me that she may come  
 ✅ She told me that she might come  
 به من گفت ممکن است بیاید.  
 
 ***
 
-(۱۱۰) Could (not can) after past 
+(۱۱۰) Could (not can) after past  
 ❌ Ben thought he can win the prize  
 ✅ Ben thought he could win the prize  
 بن فکر می‌کرد می‌تواند جایزه را ببرد.  
 
 ***
 
-(۱۱۱) To + infinitive (not past) 
+(۱۱۱) To + infinitive (not past)  
 ❌ He tried to kicked the ball away  
 ✅ He tried to kick the ball away  
 او تلاش کرد توپ را دور شوت کند.  
 
 ***
 
-(۱۱۲) Have + past participle 
+(۱۱۲) Have + past participle  
 ❌ I've forgot to bring my book  
 ✅ I've forgotten to bring my book  
 یادم رفت کتابم را بیاورم.  
 
 ***
 
-(۱۱۳) Ought to have + past participle 
+(۱۱۳) Ought to have + past participle  
 ❌ You ought to come yesterday  
 ✅ You ought to have come yesterday  
 باید دیروز می‌آمدی.  
 
 ***
 
-(۱۱۴) Simple past with past time word 
+(۱۱۴) Simple past with past time word  
 ❌ I have seen a good film yesterday  
 ✅ I saw a good film yesterday  
 دیروز یک فیلم خوب دیدم.  
 
 ***
 
-(۱۱۵) Present perfect for life experience 
+(۱۱۵) Present perfect for life experience  
 ❌ I saw the Parthenon of Athens  
 ✅ I have seen the Parthenon of Athens  
 پارتنون آتن را دیده‌ام.  
 
 ***
 
-(۱۱۶) Present perfect for just-finished action 
+(۱۱۶) Present perfect for just-finished action  
 ❌ The clock struck  
 ✅ The clock has struck  
 ساعت همین الان زنگ زد / ضربه زد.  
 
 ***
 
-(۱۱۷) Present perfect for “since/for” duration 
+(۱۱۷) Present perfect for “since/for” duration  
 ❌ I'm at this school two years  
 ✅ I've been at this school two years  
 دو سال است در این مدرسه هستم.  
 
 ***
 
-(۱۱۸) Present perfect after since 
+(۱۱۸) Present perfect after since  
 ❌ Since he came, we're happy  
 ✅ Since he came, we've been happy  
 از وقتی او آمده، خوشحال بوده‌ایم.  
 
 ***
 
-(۱۱۹) Present continuous for “now” 
+(۱۱۹) Present continuous for “now”  
 ❌ Look! Two boys fight  
 ✅ Look! Two boys are fighting  
 نگاه کن! دو پسر دارند می‌جنگند.  
 
 ***
 
-(۱۲۰) Non‑continuous stative verbs 
+(۱۲۰) Non‑continuous stative verbs  
 ❌ I'm understanding the lesson now  
 ✅ I understand the lesson now  
 الان درس را متوجه می‌شوم.  
 
 ***
 
-(۱۲۱) Simple present for habit  
+(۱۲۱) Simple present for habit   
 ❌ Every morning I'm going for a walk  
 ✅ Every morning I go for a walk  
 هر صبح برای قدم‌زدن می‌روم.  
 
 ***
 
-(۱۲۲) Not “use to” for present habit  
+(۱۲۲) Not “use to” for present habit   
 ❌ I use to get up at six every morning  
 ✅ I get up at six every morning  
 هر روز ساعت شش بیدار می‌شوم.  
 
 ***
 
-(۱۲۳) Simple past for past habit  
+(۱۲۳) Simple past for past habit   
 ❌ Last year I was walking to school every day  
 ✅ Last year I walked to school every day  
 سال گذشته هر روز پیاده به مدرسه می‌رفتم.  
 
 ***
 
-(۱۲۴) Past perfect for “earlier past”  
+(۱۲۴) Past perfect for “earlier past”   
 ❌ The train already left before I arrived  
 ✅ The train had already left before I arrived  
 قطار قبل از این‌که برسم، رفته بود.  
 
 ***
 
-(۱۲۵) Simple past, not past perfect alone  
+(۱۲۵) Simple past, not past perfect alone   
 ❌ I'd finished the book yesterday  
 ✅ I finished the book yesterday  
 دیروز کتاب را تمام کردم.  
 
 ***
 
-(۱۲۶) No future in time clause  
+(۱۲۶) No future in time clause   
 ❌ I'll see you when I shall come back  
 ✅ I'll see you when I come back  
 وقتی برگردم، تو را می‌بینم.  
 
 ***
 
-(۱۲۷) No future in if‑clause (real condition)  
+(۱۲۷) No future in if‑clause (real condition)   
 ❌ If he'll ask me, I will stay  
 ✅ If he asks me, I will stay  
 اگر از من بخواهد، می‌مانم.  
 
 ***
 
-(۱۲۸) Past after as if / as though  
+(۱۲۸) Past after as if / as though   
 ❌ Janine talks as if she knows everything  
 ✅ Janine talks as if she knew everything  
 جنین طوری حرف می‌زند انگار همه‌چیز را می‌داند.  
 
 ***
 
-(۱۲۹) Wish + past (present regret)  
+(۱۲۹) Wish + past (present regret)   
 ❌ I would wish to know more English  
 ✅ I wish (that) I knew more English  
 کاش انگلیسی بیشتری بلد بودم.  
 
 ***
 
-(۱۳۰) If + past, would + infinitive (unreal now)  
+(۱۳۰) If + past, would + infinitive (unreal now)   
 ❌ If he would ask me, I would stay  
 ✅ If he asked me, I would stay  
 اگر از من می‌خواست، می‌ماندم.  
 
 ***
 
-(۱۳۱) If + past perfect, would have + p.p. (unreal past)  
+(۱۳۱) If + past perfect, would have + p.p. (unreal past)   
 ❌ If he would have asked me, I would stay  
 ✅ If he had asked me, I would have stayed  
 اگر از من خواسته بود، مانده بودم.  
 
 ***
 
-(۱۳۲) Need finite verb, not bare infinitive  
+(۱۳۲) Need finite verb, not bare infinitive   
 ❌ Sir, to go home to get my book?  
 ✅ Sir, may I go home to get my book?  
 آقا، ممکن است بروم خانه کتابم را بیاورم؟  
 
 ***
 
-(۱۳۳) Keep tenses consistent  
+(۱۳۳) Keep tenses consistent   
 ❌ They asked him to be captain, but he refuses  
 ✅ They asked him to be captain, but he refused  
 از او خواستند کاپیتان باشد، اما قبول نکرد.  
 
 ***
 
-(۱۳۴) Gender (it برای اشیاء) 
+(۱۳۴) Gender (it برای اشیاء)  
 ❌ The door is open, please shut her.  
 ✅ The door is open, please shut it.  
 
 ***
 
-(۱۳۵) Possessive ’s برای اشیاء بی‌جان 
+(۱۳۵) Possessive ’s برای اشیاء بی‌جان  
 ❌ Her room's window is open.  
 ✅ The window of her room is open.  
 
 ***
 
-(۱۳۶) ضمیر فاعلی بعد از be در نوشتار رسمی 
+(۱۳۶) ضمیر فاعلی بعد از be در نوشتار رسمی  
 ❌ It was him.  
 ✅ It was he.  
 
 ***
 
-(۱۳۷) ضمیر فاعلی بعد از than در نوشتار رسمی 
+(۱۳۷) ضمیر فاعلی بعد از than در نوشتار رسمی  
 ❌ My sister is taller than me.  
 ✅ My sister is taller than I (am).  
 
 ***
 
-(۱۳۸) مفعولی بعد از between 
+(۱۳۸) مفعولی بعد از between  
 ❌ It's a secret between you and I.  
 ✅ It's a secret between you and me.  
 
 ***
 
-(۱۳۹) مضاف‌الیهِ قبل از gerund 
+(۱۳۹) مضاف‌الیهِ قبل از gerund  
 ❌ Him laughing at her was what made her angry.  
 ✅ His laughing at her was what made her angry.  
 
 ***
 
-(۱۴۰) double genitive با ضمیر ملکی 
+(۱۴۰) double genitive با ضمیر ملکی  
 ❌ A friend of him told us the news.  
 ✅ A friend of his told us the news.  
 
 ***
 
-(۱۴۱) myself به‌جای I 
+(۱۴۱) myself به‌جای I  
 ❌ Michael and myself are here.  
 ✅ Michael and I are here.  
 
 ***
 
-(۱۴۲) theirselves / hisself 
+(۱۴۲) theirselves / hisself  
 ❌ They fell down and hurt theirselves.  
 ✅ They fell down and hurt themselves.  
 
 ***
 
-(۱۴۳) play a play 
+(۱۴۳) play a play  
 ❌ Becky played a good play of chess.  
 ✅ Becky played a good game of chess.  
 
 ***
 
-(۱۴۴) which برای انسان 
+(۱۴۴) which برای انسان  
 ❌ I've a brother which is at school.  
 ✅ I've a brother who is at school.  
 
 ***
 
-(۱۴۵) which/what بعد از everything 
+(۱۴۵) which/what بعد از everything  
 ❌ I heard everything which he said.  
 ✅ I heard everything (that) he said.  
 
 ***
 
-(۱۴۶) whom در جای نادرست 
+(۱۴۶) whom در جای نادرست  
 ❌ I saw the woman whom you said lived next door.  
 ✅ I saw the woman (who) you said lived next door.  
 
 ***
 
-(۱۴۷) who/which بعد از صیغهٔ عالی 
+(۱۴۷) who/which بعد از صیغهٔ عالی  
 ❌ It's the best which I've seen.  
 ✅ It's the best (that) I've seen.  
 
 ***
 
-(۱۴۸) the same as / that 
+(۱۴۸) the same as / that  
 ❌ Amelia bought the same bag that me.  
 ✅ Amelia bought the same bag as me.  
 
 ***
 
-(۱۴۹) who? به‌جای which? بین دو نفر 
+(۱۴۹) who? به‌جای which? بین دو نفر  
 ❌ Who of the two boys is the taller?  
 ✅ Which of the two boys is the taller?  
 
 ***
 
-(۱۵۰) جابجایی who / whom در سؤال‌های پیچیده 
+(۱۵۰) جابجایی who / whom در سؤال‌های پیچیده  
 ❌ Whom do you think will be chosen?  
 ✅ Who do you think will be chosen?  
 
@@ -1044,876 +1044,876 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۱۵۱) one other به‌جای another 
+(۱۵۱) one other به‌جای another  
 ❌ Please give me one other book.  
 ✅ Please give me another book.  
 
 ***
 
-(۱۵۲) tallest of the two 
+(۱۵۲) tallest of the two  
 ❌ John is the tallest of the two boys.  
 ✅ John is the taller of the two boys.  
 
 ***
 
-(۱۵۳) taller from 
+(۱۵۳) taller from  
 ❌ Amy is taller from her brother.  
 ✅ Amy is taller than her brother.  
 
 ***
 
-(۱۵۴) larger city (دو تا نیست، بیش از دو تاست) 
+(۱۵۴) larger city (دو تا نیست، بیش از دو تاست)  
 ❌ Cairo is the larger city in Africa.  
 ✅ Cairo is the largest city in Africa.  
 
 ***
 
-(۱۵۵) the more people 
+(۱۵۵) the more people  
 ❌ The more people will agree with me.  
 ✅ Most people will agree with me.  
 
 ***
 
-(۱۵۶) more good / more bad 
+(۱۵۶) more good / more bad  
 ❌ This one looks more good than that.  
 ✅ This one looks better than that.  
 
 ***
 
-(۱۵۷) stay home (اینجا نیاز به at) 
+(۱۵۷) stay home (اینجا نیاز به at)  
 ❌ In the afternoon I stay home.  
 ✅ In the afternoon I stay at home.  
 
 ***
 
-(۱۵۸) from به‌جای one of 
+(۱۵۸) from به‌جای one of  
 ❌ She is from the nicest girls I know.  
 ✅ She is one of the nicest girls I know.  
 
 ***
 
-(۱۵۹) easy to be learned 
+(۱۵۹) easy to be learned  
 ❌ English isn't easy to be learned.  
 ✅ English isn't easy to learn.  
 
 ***
 
-(۱۶۰) intransitive passive 
+(۱۶۰) intransitive passive  
 ❌ She was disappeared from the house.  
 ✅ She disappeared from the house.  
 
 ***
 
-(۱۶۱) مخلوط‌کردن form فعل‌ها 
+(۱۶۱) مخلوط‌کردن form فعل‌ها  
 ❌ It's better to enjoy yourself when you're young rather than wasting time worrying about the future.  
 ✅ It's better to enjoy yourself when you're young than to waste time worrying about the future.  
 
 ***
 
-(۱۶۲) if … would / will غلط 
+(۱۶۲) if … would / will غلط  
 ❌ If you would do me this favour, I will be very grateful to you.  
 ✅ If you would do me this favour, I would be very grateful to you.  
 
 ***
 
-(۱۶۳) participle بی‌فاعل منطقی 
+(۱۶۳) participle بی‌فاعل منطقی  
 ❌ Being in a hurry, the door was left open.  
 ✅ Being in a hurry, he left the door open.  
 
 ***
 
-(۱۶۴) isn’t it? همه‌جا 
+(۱۶۴) isn’t it? همه‌جا  
 ❌ He played well yesterday, isn't it?  
 ✅ He played well yesterday, didn't he?  
 
 ***
 
-(۱۶۵) for learning (purpose) 
+(۱۶۵) for learning (purpose)  
 ❌ I come here for learning English.  
 ✅ I come here to learn English.  
 
 ***
 
 (۱۶۶) پاسخ به سؤال منفی 
-(الگو اشتباه:)  
+(الگو اشتباه:)   
 ❌ Didn't you see the game? – No (منظور: دیدم)  
 ✅ Didn't you see the game? – Yes, I did. / No, I didn’t.  
 
 ***
 
-(۱۶۷) دو منفی در یک جمله 
+(۱۶۷) دو منفی در یک جمله  
 ❌ She says she's not afraid of nobody.  
 ✅ She says she's not afraid of anybody.  
 
 ***
 
-(۱۶۸) one time / two times 
+(۱۶۸) one time / two times  
 ❌ I was absent one time or two times.  
 ✅ I was absent once or twice.  
 
 ***
 
-(۱۶۹) a day به‌معنای «روزی یک‌بار» خاص 
+(۱۶۹) a day به‌معنای «روزی یک‌بار» خاص  
 ❌ A day they went sight-seeing in Florence.  
 ✅ One day they went sight-seeing in Florence.  
 
 ***
 
-(۱۷۰) the other day (معنی «چند روز پیش») 
+(۱۷۰) the other day (معنی «چند روز پیش»)  
 ❌ David slept well and was better the other day.  
 ✅ David slept well and was better the next day.  
 
 ***
 
-(۱۷۱) eight and a half برای ساعت 
+(۱۷۱) eight and a half برای ساعت  
 ❌ Lessons begin at eight and a half.  
 ✅ Lessons begin at half past eight.  
 
 ***
 
-(۱۷۲) as usually 
+(۱۷۲) as usually  
 ❌ As usually, he left his pen at home.  
 ✅ As usual, he left his pen at home.  
 
 ***
 
-(۱۷۳) according to my opinion 
+(۱۷۳) according to my opinion  
 ❌ According to my opinion, she's right.  
 ✅ In my opinion, she's right.  
 
 ***
 
-(۱۷۴) at the end / in the end 
+(۱۷۴) at the end / in the end  
 ❌ At the end they reached the city.  
 ✅ In the end they reached the city.  
 
 ***
 
-(۱۷۵) under the rain 
+(۱۷۵) under the rain  
 ❌ They played football under the rain.  
 ✅ They played football in the rain.  
 
 ***
 
-(۱۷۶) the reason is because 
+(۱۷۶) the reason is because  
 ❌ The reason is because I believe it.  
 ✅ The reason is that I believe it.  
 
 ***
 
-(۱۷۷) in a country / in the country 
+(۱۷۷) in a country / in the country  
 ❌ I spend my holidays in a country.  
 ✅ I spend my holidays in the country.  
 
 ***
 
-(۱۷۸) if به‌جای whether (وقتی or not ضمنی است) 
+(۱۷۸) if به‌جای whether (وقتی or not ضمنی است)  
 ❌ I asked Paul if he was going.  
 ✅ I asked Paul whether he was going.  
 
 ***
 
-(۱۷۹) any of these two 
+(۱۷۹) any of these two  
 ❌ Any of these two books is good.  
 ✅ Either of these two books is good.  
 
 ***
 
-(۱۸۰) the cinema likes me 
+(۱۸۰) the cinema likes me  
 ❌ The cinema likes me very much.  
 ✅ I like the cinema very much.  
 
 ***
 
-(۱۸۱) neither … or 
+(۱۸۱) neither … or  
 ❌ Sara speaks neither English or French.  
 ✅ Sara speaks neither English nor French.  
 
 ***
 
-(۱۸۲) both … didn’t 
+(۱۸۲) both … didn’t  
 ❌ Both of them didn't go to school today.  
 ✅ Neither of them went to school today.  
 
 ***
 
-(۱۸۳) also/too در جملهٔ منفی 
+(۱۸۳) also/too در جملهٔ منفی  
 ❌ Joe hasn't come also.  
 ✅ Joe hasn't come either.  
 
 ***
 
-(۱۸۴) and در منفی با دو گزینه 
+(۱۸۴) and در منفی با دو گزینه  
 ❌ I don't like red and orange. I want the blue one.  
 ✅ I don't like red or orange. I want the blue one.  
 
 ***
 
-(۱۸۵) till به‌جای before / when 
+(۱۸۵) till به‌جای before / when  
 ❌ I'd reached the school till the rain started.  
 ✅ I'd reached the school before the rain started.  
 
 ***
 
-(۱۸۶) I read too hard  
+(۱۸۶) I read too hard   
 ❌ I read too hard for the exam.  
 ✅ I studied very hard for the exam.  
 برای امتحان خیلی سخت/زیاد درس خواندم.  
 
 ***
 
-(۱۸۷) He is in the same age as me  
+(۱۸۷) He is in the same age as me   
 ❌ He is in the same age as me.  
 ✅ He is the same age as me.  
 او هم‌سنِ من است.  
 
 ***
 
-(۱۸۸) I have visited there  
+(۱۸۸) I have visited there   
 ❌ I have visited there last year.  
 ✅ I visited there last year.  
 سال گذشته آن‌جا را دیدم / به آن‌جا رفتم.  
 
 ***
 
-(۱۸۹) I very like it  
+(۱۸۹) I very like it   
 ❌ I very like this movie.  
 ✅ I like this movie very much.  
 این فیلم را خیلی دوست دارم.  
 
 ***
 
-(۱۹۰) I didn’t went  
+(۱۹۰) I didn’t went   
 ❌ I didn’t went to the party.  
 ✅ I didn’t go to the party.  
 به مهمانی نرفتم.  
 
 ***
 
-(۱۹۱) She is teacher  
+(۱۹۱) She is teacher   
 ❌ She is teacher in a high school.  
 ✅ She is a teacher in a high school.  
 او معلمِ یک دبیرستان است.  
 
 ***
 
-(۱۹۲) He explained me the problem  
+(۱۹۲) He explained me the problem   
 ❌ He explained me the problem.  
 ✅ He explained the problem to me.  
 او مشکل را برایم توضیح داد.  
 
 ***
 
-(۱۹۳) I’m here since two hours  
+(۱۹۳) I’m here since two hours   
 ❌ I’m here since two hours.  
 ✅ I have been here for two hours.  
 دو ساعت است این‌جا هستم.  
 
 ***
 
-(۱۹۴) I didn’t knew  
+(۱۹۴) I didn’t knew   
 ❌ I didn’t knew the answer.  
 ✅ I didn’t know the answer.  
 جواب را نمی‌دانستم.  
 
 ***
 
-(۱۹۵) I’m waiting you  
+(۱۹۵) I’m waiting you   
 ❌ I’m waiting you at the station.  
 ✅ I’m waiting for you at the station.  
 در ایستگاه منتظرِ تو هستم.  
 
 ***
 
-(۱۹۶) He told that he was tired  
+(۱۹۶) He told that he was tired   
 ❌ He told that he was tired.  
 ✅ He said that he was tired.  
 او گفت که خسته است.  
 
 ***
 
-(۱۹۷) It depends of you  
+(۱۹۷) It depends of you   
 ❌ It depends of you.  
 ✅ It depends on you.  
 به تو بستگی دارد.  
 
 ***
 
-(۱۹۸) He suggested me to go  
+(۱۹۸) He suggested me to go   
 ❌ He suggested me to go home.  
 ✅ He suggested that I (should) go home.  
 پیشنهاد کرد که به خانه بروم.  
 
 ***
 
-(۱۹۹) I didn’t wrote  
+(۱۹۹) I didn’t wrote   
 ❌ I didn’t wrote the report.  
 ✅ I didn’t write the report.  
 گزارش را ننوشتم.  
 
 ***
 
-(۲۰۰) I’m agree  
+(۲۰۰) I’m agree   
 ❌ I’m agree with you.  
 ✅ I agree with you.  
 با تو موافقم.  
 
 ***
 
-(۲۰۱) I’m boring  
+(۲۰۱) I’m boring   
 ❌ I’m boring in this class.  
 ✅ I’m bored in this class.  
 در این کلاس حوصله‌ام سر می‌رود.  
 
 ***
 
-(۲۰۲) I’m interesting in  
+(۲۰۲) I’m interesting in   
 ❌ I’m interesting in physics.  
 ✅ I’m interested in physics.  
 به فیزیک علاقه‌مندم.  
 
 ***
 
-(۲۰۳) It was happened yesterday  
+(۲۰۳) It was happened yesterday   
 ❌ It was happened yesterday.  
 ✅ It happened yesterday.  
 دیروز اتفاق افتاد.  
 
 ***
 
-(۲۰۴) I became a cold  
+(۲۰۴) I became a cold   
 ❌ I became a cold last week.  
 ✅ I caught a cold last week.  
 هفتهٔ گذشته سرما خوردم.  
 
 ***
 
-(۲۰۵) I have a 25 years old  
+(۲۰۵) I have a 25 years old   
 ❌ I have 25 years old.  
 ✅ I am 25 years old.  
 ۲۵ ساله هستم.  
 
 ***
 
-(۲۰۶) I didn’t listened  
+(۲۰۶) I didn’t listened   
 ❌ I didn’t listened to him.  
 ✅ I didn’t listen to him.  
 به او گوش نکردم.  
 
 ***
 
-(۲۰۷) I’m living here since 2020  
+(۲۰۷) I’m living here since 2020   
 ❌ I’m living here since 2020.  
 ✅ I have been living here since 2020.  
 از سال ۲۰۲۰ این‌جا زندگی می‌کنم.  
 
 ***
 
-(۲۰۸) It was very fun  
+(۲۰۸) It was very fun   
 ❌ It was very fun.  
 ✅ It was a lot of fun.  
 خیلی خوش گذشت / خیلی سرگرم‌کننده بود.  
 
 ***
 
-(۲۰۹) He explained about the problem  
+(۲۰۹) He explained about the problem   
 ❌ He explained about the problem.  
 ✅ He explained the problem.  
 او مشکل را توضیح داد.  
 
 ***
 
-(۲۱۰) We discussed about it  
+(۲۱۰) We discussed about it   
 ❌ We discussed about it.  
 ✅ We discussed it.  
 در موردش بحث کردیم.  
 
 ***
 
-(۲۱۱) I’m looking forward to see you  
+(۲۱۱) I’m looking forward to see you   
 ❌ I’m looking forward to see you.  
 ✅ I’m looking forward to seeing you.  
 بی‌صبرانه منتظر دیدن تو هستم.  
 
 ***
 
-(۲۱۲) I’m good in English  
+(۲۱۲) I’m good in English   
 ❌ I’m good in English.  
 ✅ I’m good at English.  
 در انگلیسی خوب هستم.  
 
 ***
 
-(۲۱۳) I didn’t went nowhere  
+(۲۱۳) I didn’t went nowhere   
 ❌ I didn’t went nowhere yesterday.  
 ✅ I didn’t go anywhere yesterday.  
 دیروز هیچ‌جا نرفتم.  
 
 ***
 
-(۲۱۴) I’ll explain you  
+(۲۱۴) I’ll explain you   
 ❌ I’ll explain you later.  
 ✅ I’ll explain it to you later.  
 بعداً آن را برایت توضیح می‌دهم.  
 
 ***
 
-(۲۱۵) We are five in my family  
+(۲۱۵) We are five in my family   
 ❌ We are five in my family.  
 ✅ There are five of us in my family.  
 ما پنج نفر در خانواده هستیم.  
 
 ***
 
-(۲۱۶) I make always mistakes  
+(۲۱۶) I make always mistakes   
 ❌ I make always mistakes.  
 ✅ I always make mistakes.  
 همیشه اشتباه می‌کنم.  
 
 ***
 
-(۲۱۷) Now I’m going to home  
+(۲۱۷) Now I’m going to home   
 ❌ Now I’m going to home.  
 ✅ Now I’m going home.  
 الان دارم به خانه می‌روم.  
 
 ***
 
-(۲۱۸) It’s more easy  
+(۲۱۸) It’s more easy   
 ❌ It’s more easy than that.  
 ✅ It’s easier than that.  
 از آن آسان‌تر است.  
 
 ***
 
-(۲۱۹) I didn’t had time  
+(۲۱۹) I didn’t had time   
 ❌ I didn’t had time.  
 ✅ I didn’t have time.  
 وقت نداشتم.  
 
 ***
 
-(۲۲۰) I prefer more coffee  
+(۲۲۰) I prefer more coffee   
 ❌ I prefer more coffee than tea.  
 ✅ I prefer coffee to tea.  
 قهوه را به چای ترجیح می‌دهم.  
 
 ***
 
-(۲۲۱) Ask for 
+(۲۲۱) Ask for  
 ❌ She came and asked my book  
 ✅ She came and asked for my book  
 او آمد و کتاب مرا خواست.
 
 ***
 
-(۲۲۲) Dispose of / Get rid of 
+(۲۲۲) Dispose of / Get rid of  
 ❌ He'll dispose all his property  
 ✅ He'll dispose of all his property  
 او تمام اموالش را واگذار خواهد کرد.
 
 ***
 
-(۲۲۳) Dream of 
+(۲۲۳) Dream of  
 ❌ Young men dream glory and riches  
 ✅ Young men dream of glory and riches  
 مردان جوان رویای شکوه و ثروت را در سر دارند.
 
 ***
 
-(۲۲۴) Explain to 
+(۲۲۴) Explain to  
 ❌ She explained me the matter  
 ✅ She explained the matter to me  
 او موضوع را برایم توضیح داد.
 
 ***
 
-(۲۲۵) Knock at 
+(۲۲۵) Knock at  
 ❌ Who is knocking the door?  
 ✅ Who is knocking at the door?  
 چه کسی در می‌زند؟
 
 ***
 
-(۲۲۶) Listen to 
+(۲۲۶) Listen to  
 ❌ They were listening the music  
 ✅ They were listening to the music  
 آن‌ها به موسیقی گوش می‌دادند.
 
 ***
 
-(۲۲۷) Pay for 
+(۲۲۷) Pay for  
 ❌ How much did you pay the book?  
 ✅ How much did you pay for the book?  
 کتاب را چقدر خریدی؟
 
 ***
 
-(۲۲۸) Point to / at 
+(۲۲۸) Point to / at  
 ❌ He pointed the map on the wall  
 ✅ He pointed to the map on the wall  
 او به نقشه روی دیوار اشاره کرد.
 
 ***
 
-(۲۲۹) Remind of 
+(۲۲۹) Remind of  
 ❌ Please remind me that later  
 ✅ Please remind me of that later  
 لطفاً بعداً به من یادآوری کن.
 
 ***
 
-(۲۳۰) Reply to 
+(۲۳۰) Reply to  
 ❌ She's not replied me yet  
 ✅ She's not replied to me yet  
 هنوز به من پاسخ نداده است.
 
 ***
 
-(۲۳۱) Say to 
+(۲۳۱) Say to  
 ❌ Kevin said me, 'Come tomorrow'  
 ✅ Kevin said to me, 'Come tomorrow'  
 کوین به من گفت «فردا بیا».
 
 ***
 
-(۲۳۲) Search for 
+(۲۳۲) Search for  
 ❌ They're searching the ball  
 ✅ They're searching for the ball  
 آن‌ها دنبال توپ می‌گردند.
 
 ***
 
-(۲۳۳) Share with 
+(۲۳۳) Share with  
 ❌ My friend shared me his book  
 ✅ My friend shared his book with me  
 دوستم کتابش را با من شریک شد.
 
 ***
 
-(۲۳۴) Speak to 
+(۲۳۴) Speak to  
 ❌ I'll speak him about that  
 ✅ I'll speak to him about that  
 دربارهٔ آن با او صحبت خواهم کرد.
 
 ***
 
-(۲۳۵) Supply with 
+(۲۳۵) Supply with  
 ❌ Can you supply me all I need?  
 ✅ Can you supply me with all I need?  
 می‌توانی همهٔ چیزهایی را که نیاز دارم برایم فراهم کنی؟
 
 ***
 
-(۲۳۶) Think of 
+(۲۳۶) Think of  
 ❌ Think a number and then double it  
 ✅ Think of a number and then double it  
 یک عدد در نظر بگیر و سپس دو برابرش کن.
 
 ***
 
-(۲۳۷) Wait for 
+(۲۳۷) Wait for  
 ❌ I'll wait you at the cinema  
 ✅ I'll wait for you at the cinema  
 جلوی سینما منتظرت خواهم بود.
 
 ***
 
-(۲۳۸) Wish for 
+(۲۳۸) Wish for  
 ❌ He doesn't wish any reward  
 ✅ He doesn't wish for any reward  
 او هیچ پاداشی نمی‌خواهد.
 
 ***
 
-(۲۳۹) Write to 
+(۲۳۹) Write to  
 ❌ I'll write her tomorrow  
 ✅ I'll write to her tomorrow  
 فردا برایش می‌نویسم.
 
 ***
 
-(۲۴۰) Third person -s 
+(۲۴۰) Third person -s  
 ❌ He speak English very well  
 ✅ He speaks English very well  
 او خیلی خوب انگلیسی صحبت می‌کند.
 
 ***
 
-(۲۴۱) Don't / Doesn't 
+(۲۴۱) Don't / Doesn't  
 ❌ He don't care what he says  
 ✅ He doesn't care what he says  
 اهمیتی نمی‌دهد چه چیزی می‌گوید.
 
 ***
 
-(۲۴۲) Past -ed ending 
+(۲۴۲) Past -ed ending  
 ❌ I receive a letter yesterday  
 ✅ I received a letter yesterday  
 دیروز نامه‌ای دریافت کردم.
 
 ***
 
-(۲۴۳) a / an after be 
+(۲۴۳) a / an after be  
 ❌ I'm not teacher, I'm student  
 ✅ I'm not a teacher, I'm a student  
 من معلم نیستم، دانشجو هستم.
 
 ***
 
-(۲۴۴) half a 
+(۲۴۴) half a  
 ❌ He drank half glass of milk  
 ✅ He drank half a glass of milk  
 او نصف لیوان شیر نوشید.
 
 ***
 
-(۲۴۵) a / one hundred 
+(۲۴۵) a / one hundred  
 ❌ Hundred years make a century  
 ✅ A hundred years make a century  
 یک صد سال یک قرن می‌سازد.
 
 ***
 
-(۲۴۶) make a noise 
+(۲۴۶) make a noise  
 ❌ I told them not to make noise  
 ✅ I told them not to make a noise  
 به آن‌ها گفتم سر و صدا نکنند.
 
 ***
 
-(۲۴۷) the + nationalities 
+(۲۴۷) the + nationalities  
 ❌ English are fond of sports  
 ✅ The English are fond of sports  
 انگلیسی‌ها علاقه‌مند به ورزش هستند.
 
 ***
 
-(۲۴۸) the + musical instruments 
+(۲۴۸) the + musical instruments  
 ❌ I play violin, but not piano  
 ✅ I play the violin, but not the piano  
 من ویولن می‌نوازم، اما پیانو نه.
 
 ***
 
-(۲۴۹) the cinema / theatre 
+(۲۴۹) the cinema / theatre  
 ❌ On Saturday I go to cinema  
 ✅ On Saturday I go to the cinema  
 شنبه‌ها به سینما می‌روم.
 
 ***
 
-(۲۵۰) was born (passive) 
+(۲۵۰) was born (passive)  
 ❌ Charles Dickens born in 1812  
 ✅ Charles Dickens was born in 1812  
 چارلز دیکنز در ۱۸۱۲ متولد شد.
 
 ***
 
-(۲۵۱) Do / Does in questions 
+(۲۵۱) Do / Does in questions  
 ❌ You understand the problem?  
 ✅ Do you understand the problem?  
 مسئله را متوجه می‌شوی؟
 
 ***
 
-(۲۵۲) Do + do (principal verb) 
+(۲۵۲) Do + do (principal verb)  
 ❌ Do pupils their work carefully?  
 ✅ Do pupils do their work carefully?  
 آیا دانش‌آموزان کارشان را با دقت انجام می‌دهند؟
 
 ***
 
-(۲۵۳) on + date 
+(۲۵۳) on + date  
 ❌ I was born the third of December  
 ✅ I was born on the third of December  
 من سوم دسامبر متولد شدم.
 
 ***
 
-(۲۵۴) Infinitive + preposition (live in) 
+(۲۵۴) Infinitive + preposition (live in)  
 ❌ They've no houses to live  
 ✅ They've no houses to live in  
 آن‌ها خانه‌ای برای زندگی ندارند.
 
 ***
 
-(۲۵۵) there + verb + subject 
+(۲۵۵) there + verb + subject  
 ❌ Once lived a great king  
 ✅ Once there lived a great king  
 یک‌بار پادشاه بزرگی زندگی می‌کرد.
 
 ***
 
-(۲۵۶) know how to 
+(۲۵۶) know how to  
 ❌ She knows to play the piano  
 ✅ She knows how to play the piano  
 او بلد است پیانو بنوازد.
 
 ***
 
-(۲۵۷) other after comparative 
+(۲۵۷) other after comparative  
 ❌ Homer was greater than all the Greek poets  
 ✅ Homer was greater than all the other Greek poets  
 هومر از همهٔ شاعران یونانی دیگر بزرگ‌تر بود.
 
 ***
 
-(۲۵۸) before in comparisons 
+(۲۵۸) before in comparisons  
 ❌ I'd never seen such a thing  
 ✅ I'd never seen such a thing before  
 هرگز چنین چیزی را قبلاً ندیده بودم.
 
 ***
 
-(۲۵۹) else after everybody 
+(۲۵۹) else after everybody  
 ❌ She is stronger than everybody  
 ✅ She is stronger than everybody else  
 او از هر کس دیگری قوی‌تر است.
 
 ***
 
-(۲۶۰) one (demonstrative) 
+(۲۶۰) one (demonstrative)  
 ❌ This is the only that I like  
 ✅ This is the only one that I like  
 این تنها چیزی است که دوست دارم.
 
 ***
 
-(۲۶۱) pronoun + infinitive 
+(۲۶۱) pronoun + infinitive  
 ❌ I want to tell me the truth  
 ✅ I want you to tell me the truth  
 می‌خواهم حقیقت را به من بگویی.
 
 ***
 
-(۲۶۲) it (impersonal subject) 
+(۲۶۲) it (impersonal subject)  
 ❌ Is very hot in the Sudan  
 ✅ It's very hot in the Sudan  
 در سودان خیلی گرم است.
 
 ***
 
-(۲۶۳) Pronoun in main clause 
+(۲۶۳) Pronoun in main clause  
 ❌ When he saw the teacher, stood up  
 ✅ When he saw the teacher, he stood up  
 وقتی معلم را دید، ایستاد.
 
 ***
 
-(۲۶۴) Pronoun after quotation 
+(۲۶۴) Pronoun after quotation  
 ❌ 'I'm learning English,' said  
 ✅ 'I'm learning English,' he said  
 او گفت «دارم انگلیسی یاد می‌گیرم».
 
 ***
 
-(۲۶۵) Object must be expressed 
+(۲۶۵) Object must be expressed  
 ❌ I asked her for some paper, but she had not  
 ✅ I asked her for some paper, but she had none  
 از او کاغذ خواستم، اما نداشت.
 
 ***
 
-(۲۶۶) Direct object with give 
+(۲۶۶) Direct object with give  
 ❌ I asked him for some ink, and he gave me  
 ✅ I asked him for some ink, and he gave me some  
 از او جوهر خواستم و او کمی به من داد.
 
 ***
 
-(۲۶۷) enjoy + object 
+(۲۶۷) enjoy + object  
 ❌ I enjoyed during the holidays  
 ✅ I enjoyed myself during the holidays  
 در تعطیلات خوش گذراندم.
 
 ***
 
-(۲۶۸) Noun after adjective 
+(۲۶۸) Noun after adjective  
 ❌ The unfortunate was shot dead  
 ✅ The unfortunate man was shot dead  
 مرد بدبخت با شلیک گلوله کشته شد.
 
 ***
 
-(۲۶۹) and between numbers 
+(۲۶۹) and between numbers  
 ❌ Eight thousand thirty-seven  
 ✅ Eight thousand and thirty-seven  
 هشت هزار و سی و هفت.
 
 ***
 
-(۲۷۰) or between options 
+(۲۷۰) or between options  
 ❌ I've only two, three friends  
 ✅ I've only two or three friends  
 فقط دو یا سه دوست دارم.
 
 ***
 
-(۲۷۱) years old 
+(۲۷۱) years old  
 ❌ My sister is fifteen years  
 ✅ My sister is fifteen years old  
 خواهرم پانزده ساله است.
 
 ***
 
-(۲۷۲) for this reason 
+(۲۷۲) for this reason  
 ❌ For this he wants to leave  
 ✅ For this reason he wants to leave  
 به همین دلیل می‌خواهد برود.
 
 ***
 
-(۲۷۳) had better 
+(۲۷۳) had better  
 ❌ Better go home at once  
 ✅ You'd better go home at once  
 بهتر است فوراً به خانه بروی.
 
 ***
 
-(۲۷۴) upstairs / downstairs 
+(۲۷۴) upstairs / downstairs  
 ❌ He's up, he's down  
 ✅ He's upstairs, he's downstairs  
 او طبقهٔ بالا / پایین است.
 
 ***
 
-(۲۷۵) throw it away 
+(۲۷۵) throw it away  
 ❌ It's dirty, throw it  
 ✅ It's dirty, throw it away  
 کثیف است، دورش بینداز.
 
 ***
 
-(۲۷۶) Leave (not leave from) 
+(۲۷۶) Leave (not leave from)  
 ❌ Brian left from England last week  
 ✅ Brian left England last week  
 برایان هفتهٔ گذشته انگلستان را ترک کرد.
 
 ***
 
-(۲۷۷) Obey (not obey to) 
+(۲۷۷) Obey (not obey to)  
 ❌ We should obey to our teachers  
 ✅ We should obey our teachers  
 باید از معلمانمان اطاعت کنیم.
 
 ***
 
-(۲۷۸) Allow / let (no 'to' before object) 
+(۲۷۸) Allow / let (no 'to' before object)  
 ❌ The driver allowed to John to sit  
 ✅ The driver allowed John to sit  
 راننده اجازه داد جان بنشیند.
 
 ***
 
-(۲۷۹) Reach (not reach at) 
+(۲۷۹) Reach (not reach at)  
 ❌ We reached at the school early  
 ✅ We reached the school early  
 زود به مدرسه رسیدیم.
 
 ***
 
-(۲۸۰) Resemble (not resemble to) 
+(۲۸۰) Resemble (not resemble to)  
 ❌ Does she resemble to her father?  
 ✅ Does she resemble her father?  
 آیا او شبیه پدرش است؟
@@ -1921,7 +1921,7 @@ tags: [روزمره, انگلیسی]
 ***
 
 
-(۲۸۱) Answer (not answer **to**) 
+(۲۸۱) Answer (not answer **to**)  
 ❌ Please answer **to** my question  
 ✅ Please answer my question  
 لطفاً به سوالم پاسخ بده.  
@@ -1929,21 +1929,21 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۸۲) Approach (not approach **to**) 
+(۲۸۲) Approach (not approach **to**)  
 ❌ Don't approach **to** that house  
 ✅ Don't approach that house  
 به آن خانه نزدیک نشو.
 
 ***
 
-(۲۸۳) Ask (not ask **to**) 
+(۲۸۳) Ask (not ask **to**)  
 ❌ I asked **to** the teacher about it  
 ✅ I asked the teacher about it  
 از معلم در موردش پرسیدم.
 
 ***
 
-(۲۸۴) Attack (not attack **against**) 
+(۲۸۴) Attack (not attack **against**)  
 ❌ They attacked **against** the enemy  
 ✅ They attacked the enemy  
 آن‌ها به دشمن حمله کردند.  
@@ -1951,7 +1951,7 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۸۵) Comprise (not comprise **of**) 
+(۲۸۵) Comprise (not comprise **of**)  
 ❌ The book comprises **of** five chapters  
 ✅ The book comprises five chapters  
 کتاب شامل پنج فصل است.  
@@ -1959,7 +1959,7 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۸۶) Enter (not enter **into**) 
+(۲۸۶) Enter (not enter **into**)  
 ❌ We entered **into** the classroom  
 ✅ We entered the classroom  
 وارد کلاس شدیم.  
@@ -1967,42 +1967,42 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۸۷) Finish (not finish **from**) 
+(۲۸۷) Finish (not finish **from**)  
 ❌ I've finished **from** my work  
 ✅ I've finished my work  
 کارم تمام شده است.
 
 ***
 
-(۲۸۸) Leave (not leave **from**) 
+(۲۸۸) Leave (not leave **from**)  
 ❌ Brian left **from** England last week  
 ✅ Brian left England last week  
 برایان هفتهٔ گذشته انگلستان را ترک کرد.
 
 ***
 
-(۲۸۹) Obey (not obey **to**) 
+(۲۸۹) Obey (not obey **to**)  
 ❌ We should obey **to** our teachers  
 ✅ We should obey our teachers  
 باید از معلمانمان اطاعت کنیم.
 
 ***
 
-(۲۹۰) Allow / Let (no **to** before object) 
+(۲۹۰) Allow / Let (no **to** before object)  
 ❌ The driver allowed **to** John **(to)** sit  
 ✅ The driver allowed John **(to)** sit  
 راننده اجازه داد جان بنشیند.
 
 ***
 
-(۲۹۱) Reach (not reach **at**) 
+(۲۹۱) Reach (not reach **at**)  
 ❌ We reached **at** the school early  
 ✅ We reached the school early  
 زود به مدرسه رسیدیم.
 
 ***
 
-(۲۹۲) Resemble (not resemble **to**) 
+(۲۹۲) Resemble (not resemble **to**)  
 ❌ Does she resemble **to** her father?  
 ✅ Does she resemble her father?  
 آیا او شبیه پدرش است؟  
@@ -2010,21 +2010,21 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۹۳) Tell (not tell **to**) 
+(۲۹۳) Tell (not tell **to**)  
 ❌ I told **to** him to come at once  
 ✅ I told him to come at once  
 به او گفتم فوراً بیاید.
 
 ***
 
-(۲۹۴) Behind (not behind **of**) 
+(۲۹۴) Behind (not behind **of**)  
 ❌ Edward hid behind **of** a large tree  
 ✅ Edward hid behind a large tree  
 ادوارد پشت درخت بزرگی پنهان شد.
 
 ***
 
-(۲۹۵) Inside / Outside / Round (no **of**) 
+(۲۹۵) Inside / Outside / Round (no **of**)  
 ❌ The boys went inside **of** the room  
 ✅ The boys went inside the room  
 پسرها داخل اتاق رفتند.  
@@ -2036,7 +2036,7 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۹۶) No **the** before proper nouns 
+(۲۹۶) No **the** before proper nouns  
 ❌ **The** Sarah will go to **the** England  
 ✅ Sarah will go to England  
 سارا به انگلستان خواهد رفت.  
@@ -2044,14 +2044,14 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۹۷) No **the** with possessive proper nouns 
+(۲۹۷) No **the** with possessive proper nouns  
 ❌ **The** Euripides' tragedies are famous  
 ✅ Euripides' tragedies are famous  
 تراژدی‌های اوریپید مشهور است.
 
 ***
 
-(۲۹۸) No **the** with abstract nouns (general sense) 
+(۲۹۸) No **the** with abstract nouns (general sense)  
 ❌ **The** bravery is a great virtue  
 ✅ Bravery is a great virtue  
 شجاعت فضیلت بزرگی است.  
@@ -2059,28 +2059,28 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۲۹۹) No **the** with material nouns (general) 
+(۲۹۹) No **the** with material nouns (general)  
 ❌ **The** gold is a precious metal  
 ✅ Gold is a precious metal  
 طلا فلز گران‌بهایی است.
 
 ***
 
-(۳۰۰) No **the** with plural nouns (general sense) 
+(۳۰۰) No **the** with plural nouns (general sense)  
 ❌ **The** dogs are faithful animals  
 ✅ Dogs are faithful animals  
 سگ‌ها حیوانات وفاداری هستند.
 
 ***
 
-(۳۰۱) No **the** with languages 
+(۳۰۱) No **the** with languages  
 ❌ Tim speaks **the** English very well  
 ✅ Tim speaks English very well  
 تیم خیلی خوب انگلیسی صحبت می‌کند.
 
 ***
 
-(۳۰۲) No **the** with meals 
+(۳۰۲) No **the** with meals  
 ❌ We'll start after **the** breakfast  
 ✅ We'll start after breakfast  
 بعد از صبحانه شروع خواهیم کرد.  
@@ -2088,49 +2088,49 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۳۰۳) No **the** with games 
+(۳۰۳) No **the** with games  
 ❌ My favourite game is **the** football  
 ✅ My favourite game is football  
 بازی مورد علاقهٔ من فوتبال است.
 
 ***
 
-(۳۰۴) No **the** with diseases 
+(۳۰۴) No **the** with diseases  
 ❌ **The** cholera is a dreadful disease  
 ✅ Cholera is a dreadful disease  
 وبا بیماری وحشتناکی است.
 
 ***
 
-(۳۰۵) No **the** with colours 
+(۳۰۵) No **the** with colours  
 ❌ **The** green is a beautiful colour  
 ✅ Green is a beautiful colour  
 سبز رنگ زیبایی است.
 
 ***
 
-(۳۰۶) No **the** with senses 
+(۳۰۶) No **the** with senses  
 ❌ **The** sight is one of the five senses  
 ✅ Sight is one of the five senses  
 بینایی یکی از پنج حس است.
 
 ***
 
-(۳۰۷) No **the** with days/months 
+(۳۰۷) No **the** with days/months  
 ❌ **The** Sunday can be a day of prayer  
 ✅ Sunday can be a day of prayer  
 یکشنبه می‌تواند روز دعا باشد.
 
 ***
 
-(۳۰۸) No **the** with "man" (human race) 
+(۳۰۸) No **the** with "man" (human race)  
 ❌ **The** man is born a sinner  
 ✅ Man is born a sinner  
 انسان گناهکار متولد می‌شود.
 
 ***
 
-(۳۰۹) go to school (not **the** school) 
+(۳۰۹) go to school (not **the** school)  
 ❌ My sister goes to **the** school  
 ✅ My sister goes to school  
 خواهرم به مدرسه می‌رود (= دانش‌آموز است).  
@@ -2138,7 +2138,7 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۳۱۰) go to church (not **the** church) 
+(۳۱۰) go to church (not **the** church)  
 ❌ On Sunday I go to **the** church  
 ✅ On Sunday I go to church  
 یکشنبه‌ها به کلیسا می‌روم (= برای دعا).  
@@ -2146,21 +2146,21 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۳۱۱) No **the** with nature (general sense) 
+(۳۱۱) No **the** with nature (general sense)  
 ❌ **The** nature is beautiful in spring  
 ✅ Nature is beautiful in spring  
 طبیعت در بهار زیباست.
 
 ***
 
-(۳۱۲) No **the** with society (general) 
+(۳۱۲) No **the** with society (general)  
 ❌ A thief is a danger to **the** society  
 ✅ A thief is a danger to society  
 دزد خطری برای جامعه است.
 
 ***
 
-(۳۱۳) in future (not in **the** future) 
+(۳۱۳) in future (not in **the** future)  
 ❌ You must be careful in **the** future  
 ✅ You must be careful in future  
 باید در آینده مراقب باشی (= از این به بعد).  
@@ -2168,14 +2168,14 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۳۱۴) No **the** after "whose" 
+(۳۱۴) No **the** after "whose"  
 ❌ The boy whose **the** father is ill has left  
 ✅ The boy whose father is ill has left  
 پسری که پدرش بیمار است رفته است.
 
 ***
 
-(۳۱۵) No **a/an** before work, fun, health, permission 
+(۳۱۵) No **a/an** before work, fun, health, permission  
 ❌ Gillian has found **a** work at the bank  
 ✅ Gillian has found work at the bank  
 جیلیان در بانک کار پیدا کرده است.
@@ -2183,35 +2183,35 @@ tags: [روزمره, انگلیسی]
 ***
 
 
-(۳۱۶) No **the** after "both" 
+(۳۱۶) No **the** after "both"  
 ❌ Both **the** my parents are in Paris  
 ✅ Both my parents are in Paris  
 هر دو والدینم در پاریس هستند.
 
 ***
 
-(۳۱۷) No **the** with double possessive 
+(۳۱۷) No **the** with double possessive  
 ❌ A friend of **the** my father's came  
 ✅ A friend of my father's came  
 یکی از دوستان پدرم آمد.
 
 ***
 
-(۳۱۸) No "to" after infinitive of purpose 
+(۳۱۸) No "to" after infinitive of purpose  
 ❌ I came here **to** to learn English  
 ✅ I came here to learn English  
 من اینجا آمدم تا انگلیسی یاد بگیرم.
 
 ***
 
-(۳۱۹) No second "to" after "go" 
+(۳۱۹) No second "to" after "go"  
 ❌ Don't go **to** to play now  
 ✅ Don't go to play now  
 الان نرو بازی کنی.
 
 ***
 
-(۳۲۰) No "to" after modal verbs 
+(۳۲۰) No "to" after modal verbs  
 ❌ They must **to** work hard  
 ✅ They must work hard  
 آن‌ها باید سخت کار کنند.  
@@ -2219,28 +2219,28 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۳۲۱) No "to" after "let" / "make" / "dare" 
+(۳۲۱) No "to" after "let" / "make" / "dare"  
 ❌ Let me **to** go now  
 ✅ Let me go now  
 بگذار الان بروم.
 
 ***
 
-(۳۲۲) No "for to" 
+(۳۲۲) No "for to"  
 ❌ Is this **for to** drink?  
 ✅ Is this to drink? / Is this for drinking?  
 این برای نوشیدن است؟
 
 ***
 
-(۳۲۳) key **to** (not key **of**) 
+(۳۲۳) key **to** (not key **of**)  
 ❌ This is the key **of** my room  
 ✅ This is the key **to** my room  
 این کلید اتاق من است.
 
 ***
 
-(۳۲۴) all **of** (optional before pronouns) 
+(۳۲۴) all **of** (optional before pronouns)  
 ❌ All **of** the students passed  
 ✅ All the students passed  
 همهٔ دانش‌آموزان قبول شدند.  
@@ -2248,77 +2248,77 @@ tags: [روزمره, انگلیسی]
 
 ***
 
-(۳۲۵) No "of" after "off" 
+(۳۲۵) No "of" after "off"  
 ❌ He jumped off **of** the wall  
 ✅ He jumped off the wall  
 او از دیوار پرید.
 
 ***
 
-(۳۲۶) No "of" after "near" 
+(۳۲۶) No "of" after "near"  
 ❌ The dog came near **of** me  
 ✅ The dog came near me  
 سگ نزدیک من آمد.
 
 ***
 
-(۳۲۷) No "to" after "until" 
+(۳۲۷) No "to" after "until"  
 ❌ They worked until **to** sunset  
 ✅ They worked until sunset  
 آن‌ها تا غروب کار کردند.
 
 ***
 
-(۳۲۸) No "to" after "since" 
+(۳۲۸) No "to" after "since"  
 ❌ I've been here since **to** 5 o'clock  
 ✅ I've been here since 5 o'clock  
 از ساعت ۵ اینجا بوده‌ام.
 
 ***
 
-(۳۲۹) No double negative 
+(۳۲۹) No double negative  
 ❌ I don't know **nothing** about it  
 ✅ I don't know **anything** about it  
 من چیزی در موردش نمی‌دانم.
 
 ***
 
-(۳۳۰) No "not" after "unless" 
+(۳۳۰) No "not" after "unless"  
 ❌ Unless you **don't** hurry, you'll be late  
 ✅ Unless you hurry, you'll be late  
 مگر اینکه عجله کنی، دیر خواهی کرد.
 
 ***
 
-(۳۳۱) No "not" after "scarcely" / "hardly" 
+(۳۳۱) No "not" after "scarcely" / "hardly"  
 ❌ She **scarcely** did **not** eat anything  
 ✅ She scarcely ate anything  
 او به سختی چیزی خورد.
 
 ***
 
-(۳۳۲) more **than** (not more **as**) 
+(۳۳۲) more **than** (not more **as**)  
 ❌ He has more **as** a thousand books  
 ✅ He has more **than** a thousand books  
 او بیش از هزار کتاب دارد.
 
 ***
 
-(۳۳۳) other **than** (not other **but**) 
+(۳۳۳) other **than** (not other **but**)  
 ❌ No country other **but** Britain  
 ✅ No country other **than** Britain  
 هیچ کشوری به جز بریتانیا.
 
 ***
 
-(۳۳۴) although / though (not **although... but**) 
+(۳۳۴) although / though (not **although... but**)  
 ❌ **Although** it rained, **but** we went  
 ✅ **Although** it rained, we went  
 اگرچه باران آمد، اما ما رفتیم.
 
 ***
 
-(۳۳۵) No "people" after collective nouns 
+(۳۳۵) No "people" after collective nouns  
 ❌ Many **people** drowned in the flood  
 ✅ Many drowned in the flood  
 Or: Many **people** drowned...  
@@ -2327,35 +2327,35 @@ Or: Many **people** drowned...
 
 ***
 
-(۳۳۶) much (not much **of**) before adjective 
+(۳۳۶) much (not much **of**) before adjective  
 ❌ This is much **of** better  
 ✅ This is much better  
 این خیلی بهتر است.
 
 ***
 
-(۳۳۷) without **a** (before singular countable) 
+(۳۳۷) without **a** (before singular countable)  
 ❌ He came without **a** hat  
 ✅ He came without a hat  
 او بدون کلاه آمد.
 
 ***
 
-(۳۳۸) a little (not a **little of**) 
+(۳۳۸) a little (not a **little of**)  
 ❌ Please give me a **little of** milk  
 ✅ Please give me a little milk  
 لطفاً کمی شیر به من بده.
 
 ***
 
-(۳۳۹) enough (not enough **of**) 
+(۳۳۹) enough (not enough **of**)  
 ❌ I have enough **of** money  
 ✅ I have enough money  
 من پول کافی دارم.
 
 ***
 
-(۳۴۰) return (not return **back**) 
+(۳۴۰) return (not return **back**)  
 ❌ They returned **back** home  
 ✅ They returned home  
 آن‌ها به خانه بازگشتند.
@@ -2370,7 +2370,7 @@ Or: Many **people** drowned...
 
 ***
 
-(۳۴۱) "only" before the word it modifies 
+(۳۴۱) "only" before the word it modifies  
 ❌ I **only** saw her once  
 ✅ I saw her **only** once  
 من او را فقط یک بار دیدم.  
@@ -2378,7 +2378,7 @@ Or: Many **people** drowned...
 
 ***
 
-(۳۴۲) "also" before main verb 
+(۳۴۲) "also" before main verb  
 ❌ He speaks **also** French  
 ✅ He **also** speaks French  
 او فرانسه هم صحبت می‌کند.  
@@ -2386,14 +2386,14 @@ Or: Many **people** drowned...
 
 ***
 
-(۳۴۳) "too" at end of sentence 
+(۳۴۳) "too" at end of sentence  
 ❌ He **too** is very tall  
 ✅ He is very tall **too**  
 او هم خیلی بلند است.
 
 ***
 
-(۳۴۴) "both" before auxiliary / after "be" 
+(۳۴۴) "both" before auxiliary / after "be"  
 ❌ They have **both** gone  
 ✅ They have **both** gone (صحیح است)  
 Or: **Both** of them have gone  
@@ -2403,7 +2403,7 @@ Or: **Both** of them have gone
 
 ***
 
-(۳۴۵) "always" before main verb / after "be" 
+(۳۴۵) "always" before main verb / after "be"  
 ❌ She goes **always** to school  
 ✅ She **always** goes to school  
 او همیشه به مدرسه می‌رود.  
@@ -2411,35 +2411,35 @@ Or: **Both** of them have gone
 
 ***
 
-(۳۴۶) "never" before main verb 
+(۳۴۶) "never" before main verb  
 ❌ I go **never** to the theatre  
 ✅ I **never** go to the theatre  
 من هرگز به تئاتر نمی‌روم.
 
 ***
 
-(۳۴۷) "often" before main verb 
+(۳۴۷) "often" before main verb  
 ❌ I see **often** him at the club  
 ✅ I **often** see him at the club  
 من اغلب او را در باشگاه می‌بینم.
 
 ***
 
-(۳۴۸) "still" before main verb 
+(۳۴۸) "still" before main verb  
 ❌ He works **still** in that office  
 ✅ He **still** works in that office  
 او هنوز در آن دفتر کار می‌کند.
 
 ***
 
-(۳۴۹) Adverb between verb and object 
+(۳۴۹) Adverb between verb and object  
 ❌ He speaks **fluently** English  
 ✅ He speaks English **fluently**  
 او روان انگلیسی صحبت می‌کند.
 
 ***
 
-(۳۵۰) "enough" after adjective/adverb 
+(۳۵۰) "enough" after adjective/adverb  
 ❌ This is **enough** good  
 ✅ This is good **enough**  
 این به اندازهٔ کافی خوب است.
@@ -2450,35 +2450,35 @@ Or: **Both** of them have gone
 
 ***
 
-(۳۵۱) "ago" after time expression 
+(۳۵۱) "ago" after time expression  
 ❌ **Ago** three years I went to Rome  
 ✅ Three years **ago** I went to Rome  
 سه سال پیش به رم رفتم.
 
 ***
 
-(۳۵۲) "else" after indefinite pronouns 
+(۳۵۲) "else" after indefinite pronouns  
 ❌ **Else** somebody must have done it  
 ✅ Somebody **else** must have done it  
 شخص دیگری باید این کار را کرده باشد.
 
 ***
 
-(۳۵۳) Noun before adjective clause 
+(۳۵۳) Noun before adjective clause  
 ❌ A **gentleman** came who wanted to see you  
 ✅ A **gentleman who wanted to see you** came  
 آقایی که می‌خواست شما را ببیند آمد.
 
 ***
 
-(۳۵۴) "very much" after verb 
+(۳۵۴) "very much" after verb  
 ❌ I like **very much** apples  
 ✅ I like apples **very much**  
 من خیلی سیب دوست دارم.
 
 ***
 
-(۳۵۵) Preposition before relative pronoun 
+(۳۵۵) Preposition before relative pronoun  
 ❌ This is the man I spoke **to him**  
 ✅ This is the man **to whom** I spoke  
 Or: This is the man I spoke **to**  
@@ -2486,7 +2486,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۳۵۶) Question word order 
+(۳۵۶) Question word order  
 ❌ I don't know where **is** he  
 ✅ I don't know where **he is**  
 نمی‌دانم او کجاست.
@@ -3057,42 +3057,42 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۱۵) **clothes** (plural) 
+(۴۱۵) **clothes** (plural)  
 ❌ I bought a new **clothe**  
 ✅ I bought new **clothes**  
 لباس‌های جدید خریدم.
 
 ***
 
-(۴۱۶) **news** (singular) 
+(۴۱۶) **news** (singular)  
 ❌ These **news** are good  
 ✅ This **news** is good  
 این خبر خوب است.
 
 ***
 
-(۴۱۷) **furniture** (uncountable) 
+(۴۱۷) **furniture** (uncountable)  
 ❌ I bought three **furnitures**  
 ✅ I bought three pieces of **furniture**  
 سه عدد مبل خریدم.
 
 ***
 
-(۴۱۸) **information** (uncountable) 
+(۴۱۸) **information** (uncountable)  
 ❌ I need some **informations**  
 ✅ I need some **information**  
 به مقداری اطلاعات نیاز دارم.
 
 ***
 
-(۴۱۹) **luggage/baggage** (uncountable) 
+(۴۱۹) **luggage/baggage** (uncountable)  
 ❌ I have three **luggages**  
 ✅ I have three pieces of **luggage**  
 سه چمدان دارم.
 
 ***
 
-(۴۲۰) **hair** (uncountable معمولاً) 
+(۴۲۰) **hair** (uncountable معمولاً)  
 ❌ He has black **hairs**  
 ✅ He has black **hair**  
 او موهای مشکی دارد.  
@@ -3100,7 +3100,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۲۱) **dozen/hundred/thousand** (بدون s بعد از عدد) 
+(۴۲۱) **dozen/hundred/thousand** (بدون s بعد از عدد)  
 ❌ Three **hundreds** people  
 ✅ Three **hundred** people  
 ✅ **Hundreds** of people (بدون عدد)  
@@ -3108,7 +3108,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۲۲) **people** (معمولاً plural) 
+(۴۲۲) **people** (معمولاً plural)  
 ❌ How many **peoples** came?  
 ✅ How many **people** came?  
 چند نفر آمدند؟  
@@ -3156,21 +3156,21 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۲۸) **leave** vs **let go** 
+(۴۲۸) **leave** vs **let go**  
 ❌ Leave the string  
 ✅ Let go of the string  
 رشته را رها کن.
 
 ***
 
-(۴۲۹) **accept** vs **agree** 
+(۴۲۹) **accept** vs **agree**  
 ❌ The teacher **accepted** to go with us  
 ✅ The teacher **agreed** to go with us  
 معلم موافقت کرد که با ما بیاید.
 
 ***
 
-(۴۳۰) **leave** vs **let** 
+(۴۳۰) **leave** vs **let**  
 ❌ She didn't **leave** me get my book  
 ✅ She didn't **let** me get my book  
 او اجازه نداد کتابم را بگیرم.
@@ -3184,119 +3184,119 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۳۲) **drown** vs **sink** 
+(۴۳۲) **drown** vs **sink**  
 ❌ The ship **drowned**  
 ✅ The ship **sank**  
 کشتی غرق شد (موجودات زنده drown می‌شوند).
 
 ***
 
-(۴۳۳) **see** vs **look** 
+(۴۳۳) **see** vs **look**  
 ❌ He was **seeing** out of the window  
 ✅ He was **looking** out of the window  
 او از پنجره نگاه می‌کرد.
 
 ***
 
-(۴۳۴) **hear** vs **listen to** (تکرار با تاکید) 
+(۴۳۴) **hear** vs **listen to** (تکرار با تاکید)  
 ❌ I was **hearing** her CDs  
 ✅ I was **listening to** her CDs  
 داشتم به سی‌دی‌هایش گوش می‌دادم.
 
 ***
 
-(۴۳۵) **remember** vs **remind** (تکرار) 
+(۴۳۵) **remember** vs **remind** (تکرار)  
 ❌ Remember me to give it back  
 ✅ Remind me to give it back  
 یادم بینداز که پس بدهم.
 
 ***
 
-(۴۳۶) **leave** vs **let go** (تکرار) 
+(۴۳۶) **leave** vs **let go** (تکرار)  
 ❌ **Leave** the other end  
 ✅ **Let go of** the other end  
 انتهای دیگر را رها کن.
 
 ***
 
-(۴۳۷) **sleep** vs **go to bed** 
+(۴۳۷) **sleep** vs **go to bed**  
 ❌ I'll **sleep** early tonight  
 ✅ I'll **go to bed** early tonight  
 امشب زود می‌خوابم.
 
 ***
 
-(۴۳۸) **be found** vs **be** 
+(۴۳۸) **be found** vs **be**  
 ❌ The man **was found** in his office (= کشف شد!)  
 ✅ The man **was** in his office  
 مرد در دفترش بود.
 
 ***
 
-(۴۳۹) **be with** vs **have** 
+(۴۳۹) **be with** vs **have**  
 ❌ My book **is with** my brother  
 ✅ My brother **has** my book  
 برادرم کتابم را دارد.
 
 ***
 
-(۴۴۰) **take** vs **get/receive** 
+(۴۴۰) **take** vs **get/receive**  
 ❌ She **took** a good mark  
 ✅ She **got** a good mark  
 او نمرهٔ خوبی گرفت.
 
 ***
 
-(۴۴۱) **like** vs **want** / **would like** 
+(۴۴۱) **like** vs **want** / **would like**  
 ❌ Do you **like** to see my collection? (= آیا عادت داری ببینی؟)  
 ✅ Do you **want** to see my collection? (= الان می‌خواهی ببینی؟)  
 ✅ I **would like** to play tennis (مؤدبانه‌تر از want)
 
 ***
 
-(۴۴۲) **know** vs **learn/find out** 
+(۴۴۲) **know** vs **learn/find out**  
 ❌ He went to school to **know** English  
 ✅ He went to school to **learn** English  
 او به مدرسه رفت تا انگلیسی یاد بگیرد.
 
 ***
 
-(۴۴۳) **read** vs **study** 
+(۴۴۳) **read** vs **study**  
 ❌ She's **reading** algebra  
 ✅ She's **studying** algebra  
 او جبر درس می‌خواند.
 
 ***
 
-(۴۴۴) **learn** vs **study** 
+(۴۴۴) **learn** vs **study**  
 ❌ I **learn** at Gordon College  
 ✅ I **study** at Gordon College  
 من در کالج گوردون درس می‌خوانم.
 
 ***
 
-(۴۴۵) **take** vs **buy** 
+(۴۴۵) **take** vs **buy**  
 ❌ I went to **take** bread  
 ✅ I went to **buy** bread  
 رفتم نان بخرم.
 
 ***
 
-(۴۴۶) **take out** vs **take off** 
+(۴۴۶) **take out** vs **take off**  
 ❌ He **took out** his hat  
 ✅ He **took off** his hat  
 او کلاهش را درآورد.
 
 ***
 
-(۴۴۷) **leave** vs **give up/stop** 
+(۴۴۷) **leave** vs **give up/stop**  
 ❌ I've **left** football  
 ✅ I've **given up** football  
 من فوتبال را ترک کردم.
 
 ***
 
-(۴۴۸) **sympathise** vs **like** 
+(۴۴۸) **sympathise** vs **like**  
 ❌ I don't **sympathise** him  
 ✅ I don't **like** him  
 او را دوست ندارم.  
@@ -3304,28 +3304,28 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۴۹) **put** vs **keep** 
+(۴۴۹) **put** vs **keep**  
 ❌ Do you **put** money in the bank?  
 ✅ Do you **keep** money in the bank?  
 پول را در بانک نگه می‌داری؟
 
 ***
 
-(۴۵۰) **care about/for** vs **take care of** 
+(۴۵۰) **care about/for** vs **take care of**  
 ❌ He **cares about** his investments  
 ✅ He **takes care of** his investments  
 او از سرمایه‌گذاری‌هایش مراقبت می‌کند.
 
 ***
 
-(۴۵۱) **let** vs **make** (force) 
+(۴۵۱) **let** vs **make** (force)  
 ❌ The examiner **let** me sit quietly  
 ✅ The examiner **made** me sit quietly  
 ممتحن مجبورم کرد آرام بنشینم.
 
 ***
 
-(۴۵۲) **flown** vs **flowed** 
+(۴۵۲) **flown** vs **flowed**  
 ❌ The river has **flown** over  
 ✅ The river has **flowed** over  
 رودخانه از ساحل خود سرریز شده است.  
@@ -3334,14 +3334,14 @@ Or: This is the man I spoke **to**
 ***
 
 (۴۵۳–۴۶۰) **Adverbs** 
-(۴۶۰) **not so** vs **not very**  
+(۴۶۰) **not so** vs **not very**   
 ❌ He's **not so** rich  
 ✅ He's **not very** rich  
 او خیلی ثروتمند نیست.
 
 ***
 
-(۴۶۱) **just now** vs **presently** 
+(۴۶۱) **just now** vs **presently**  
 ❌ He'll arrive **just now** (آینده)  
 ✅ He'll arrive **presently** (= soon)  
 او به زودی خواهد رسید.  
@@ -3349,7 +3349,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۶۲) **presently** vs **at present** 
+(۴۶۲) **presently** vs **at present**  
 ❌ He's in London **presently**  
 ✅ He's in London **at present**  
 او در حال حاضر در لندن است.  
@@ -3357,7 +3357,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۶۳) **scarcely** vs **rarely** 
+(۴۶۳) **scarcely** vs **rarely**  
 ❌ She **scarcely** comes to see me (= not often)  
 ✅ She **rarely** comes to see me  
 او به ندرت به دیدنم می‌آید.  
@@ -3365,7 +3365,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۶۴) **lately** vs **late** 
+(۴۶۴) **lately** vs **late**  
 ❌ I went to bed **lately**  
 ✅ I went to bed **late**  
 دیر به رختخواب رفتم.  
@@ -3377,7 +3377,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۶۵) **many** vs **much** 
+(۴۶۵) **many** vs **much**  
 ❌ He hasn't **much** books  
 ✅ He hasn't **many** books  
 او کتاب‌های زیادی ندارد.
@@ -3396,14 +3396,14 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۶۸) **each** vs **every** 
+(۴۶۸) **each** vs **every**  
 ❌ Every **of** the children  
 ✅ Each **of** the children  
 هر یک از بچه‌ها.
 
 ***
 
-(۴۶۹) **his** vs **her** 
+(۴۶۹) **his** vs **her**  
 ❌ John visits **her** aunt  
 ✅ John visits **his** aunt  
 جان به دیدن عمه/خاله‌اش می‌رود.
@@ -3422,7 +3422,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۷۲) **wounded** vs **injured/hurt** 
+(۴۷۲) **wounded** vs **injured/hurt**  
 ❌ He was **wounded** in a car accident  
 ✅ He was **injured** in a car accident  
 در تصادف مجروح شد.  
@@ -3436,14 +3436,14 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۷۴) **a** vs **an** 
+(۴۷۴) **a** vs **an**  
 ❌ **A** animal, **a** hour  
 ✅ **An** animal, **an** hour  
 ⚠️ اما: **a** union, **a** European (صدای یو)
 
 ***
 
-(۴۷۵) **one** vs **a/an** 
+(۴۷۵) **one** vs **a/an**  
 ❌ He found **one** ring (بدون تاکید)  
 ✅ He found **a** ring
 
@@ -3456,20 +3456,20 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۷۷) **less** vs **fewer** 
+(۴۷۷) **less** vs **fewer**  
 ❌ **Less** books  
 ✅ **Fewer** books (countable)  
 ✅ **Less** money (uncountable)
 
 ***
 
-(۴۷۸) **this** vs **that** 
+(۴۷۸) **this** vs **that**  
 ❌ Look at **this** dog across the street!  
 ✅ Look at **that** dog across the street!
 
 ***
 
-(۴۷۹) **much** / **very** 
+(۴۷۹) **much** / **very**  
 ❌ This is **very** better  
 ✅ This is **much** better
 
@@ -3493,39 +3493,39 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۴۸۳) **high** vs **tall** 
+(۴۸۳) **high** vs **tall**  
 ❌ He's six feet **high**  
 ✅ He's six feet **tall** (قد انسان)  
 ✅ A **high** mountain
 
 ***
 
-(۴۸۴) **beautiful** vs **handsome/good-looking** 
+(۴۸۴) **beautiful** vs **handsome/good-looking**  
 ❌ A **beautiful** young man  
 ✅ A **handsome** young man
 
 ***
 
-(۴۸۵) **sick** vs **ill** 
+(۴۸۵) **sick** vs **ill**  
 ❌ He's been **sick** for a year  
 ✅ He's been **ill** for a year  
 ⚠️ Sick = استفراغ کردن / احساس بد
 
 ***
 
-(۴۸۶) **clear** vs **clean** 
+(۴۸۶) **clear** vs **clean**  
 ❌ Keep your hands **clear**  
 ✅ Keep your hands **clean**
 
 ***
 
-(۴۸۷) **angry** vs **sorry** 
+(۴۸۷) **angry** vs **sorry**  
 ❌ I was **angry** to hear of her death  
 ✅ I was **sorry** to hear of her death
 
 ***
 
-(۴۸۸) **nervous** vs **angry** 
+(۴۸۸) **nervous** vs **angry**  
 ❌ The teacher is **nervous** today  
 ✅ The teacher is **angry** today
 
@@ -3634,19 +3634,19 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۵۰۵) **individual** vs **person/people** 
+(۵۰۵) **individual** vs **person/people**  
 ❌ Five **individuals** in the shop  
 ✅ Five **people** in the shop
 
 ***
 
-(۵۰۶) **men** vs **people** 
+(۵۰۶) **men** vs **people**  
 ❌ The streets were full of **men**  
 ✅ The streets were full of **people**
 
 ***
 
-(۵۰۷) **woman** vs **wife** 
+(۵۰۷) **woman** vs **wife**  
 ❌ He took his **woman**  
 ✅ He took his **wife**
 
@@ -3682,7 +3682,7 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۵۱۳) **appetite** vs **desire** 
+(۵۱۳) **appetite** vs **desire**  
 ❌ No **appetite** to study  
 ✅ No **desire** to study  
 ⚠️ Appetite = اشتها (برای غذا)
@@ -3697,103 +3697,103 @@ Or: This is the man I spoke **to**
 
 ***
 
-(۵۲۲) **bread** (uncountable) 
+(۵۲۲) **bread** (uncountable)  
 ❌ **Breads** are sold  
 ✅ **Bread** is sold  
 ✅ A **loaf** of bread
 
 ***
 
-(۵۲۳) **fish** (singular as food) 
+(۵۲۳) **fish** (singular as food)  
 ❌ We had **fishes** for dinner  
 ✅ We had **fish** for dinner
 
 ***
 
-(۵۲۴) **fruit** (uncountable) 
+(۵۲۴) **fruit** (uncountable)  
 ❌ Many **fruits**  
 ✅ Much **fruit**  
 ⚠️ اما: different **fruits** (انواع میوه)
 
 ***
 
-(۵۲۵) **grass** (uncountable) 
+(۵۲۵) **grass** (uncountable)  
 ❌ The **grasses**  
 ✅ The **grass**
 
 ***
 
-(۵۲۶) **dozen** (بدون s بعد از عدد) 
+(۵۲۶) **dozen** (بدون s بعد از عدد)  
 ❌ Three **dozens** eggs  
 ✅ Three **dozen** eggs  
 ✅ **Dozens** of eggs (بدون عدد)
 
 ***
 
-(۵۲۷) **hundred/thousand/million** 
+(۵۲۷) **hundred/thousand/million**  
 ❌ Fifty **thousands** people  
 ✅ Fifty **thousand** people  
 ✅ **Thousands** of people (بدون عدد)
 
 ***
 
-(۵۲۸) **sheep** (مفرد و جمع یکسان) 
+(۵۲۸) **sheep** (مفرد و جمع یکسان)  
 ❌ Ten **sheeps**  
 ✅ Ten **sheep**
 
 ***
 
-(۵۲۹) **knowledge** (uncountable) 
+(۵۲۹) **knowledge** (uncountable)  
 ❌ Good **knowledges**  
 ✅ A good **knowledge** of history
 
 ***
 
-(۵۳۰) **progress** (uncountable) 
+(۵۳۰) **progress** (uncountable)  
 ❌ Great **progresses**  
 ✅ Great **progress**
 
 ***
 
-(۵۳۱) **thunder/lightning** (uncountable) 
+(۵۳۱) **thunder/lightning** (uncountable)  
 ❌ **Thunders** and **lightnings**  
 ✅ **Thunder** and **lightning**  
 ✅ A clap of thunder / A flash of lightning
 
 ***
 
-(۵۳۲) **machinery** (uncountable) 
+(۵۳۲) **machinery** (uncountable)  
 ❌ New **machineries**  
 ✅ New **machinery**
 
 ***
 
-(۵۳۳) **mathematics** (singular) 
+(۵۳۳) **mathematics** (singular)  
 ❌ Mathematics **are** difficult  
 ✅ Mathematics **is** difficult
 
 ***
 
-(۵۳۴) **money** (singular) 
+(۵۳۴) **money** (singular)  
 ❌ All her money **are**  
 ✅ All her money **is**
 
 ***
 
-(۵۳۵) **news** (singular) 
+(۵۳۵) **news** (singular)  
 ❌ The news **are** good  
 ✅ The news **is** good
 
 ***
 
-(۵۳۶) **scissors/trousers/spectacles** (plural) 
+(۵۳۶) **scissors/trousers/spectacles** (plural)  
 ❌ The scissor **is**  
 ✅ The scissors **are**  
 ✅ A **pair** of scissors **is**
 
 ***
 
-(۵۳۷) **people** (plural) 
+(۵۳۷) **people** (plural)  
 ❌ There **is** lots of people  
 ✅ There **are** lots of people  
 ⚠️ اما: a people = ملت (مفرد)
